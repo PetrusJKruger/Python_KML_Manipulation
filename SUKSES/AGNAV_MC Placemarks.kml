@@ -1,0 +1,1646 @@
+<Folder xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+    <name>MC - Brakfontein - Blok 01//Xsit 1//Washington//0.79 Ha</name>
+    <Point>
+      <coordinates>19.00248248093973,-32.48906308551859,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 02//Valencia Late//0.55 Ha</name>
+    <Point>
+      <coordinates>19.00064520910102,-32.48918473693884,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 03//Xsit 48//Valencia Late//2.47 Ha</name>
+    <Point>
+      <coordinates>19.02678318871245,-32.50333707197709,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 06//Olinda//2.58 Ha</name>
+    <Point>
+      <coordinates>18.97672869958375,-32.49164951471089,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 08//Xsit 47//Valencia Late//5.22 Ha</name>
+    <Point>
+      <coordinates>18.97344918899448,-32.49218182959561,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 10//Xsit 25//Valencia Late//2.71 Ha</name>
+    <Point>
+      <coordinates>18.97147429891964,-32.49168753113484,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 11//Xsit 4//Washington//2.44 Ha</name>
+    <Point>
+      <coordinates>18.97596095049814,-32.49250743217409,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 13//Washington//2.1 Ha</name>
+    <Point>
+      <coordinates>18.97563778891873,-32.49069477083285,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 14//Washington//2.44</name>
+    <Point>
+      <coordinates>18.97481637652844,-32.49300209743831,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 16//Xsit 2//Washington//2.12 Ha</name>
+    <Point>
+      <coordinates>18.97494361418507,-32.49061625139503,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 17//Washington//1.62 Ha</name>
+    <Point>
+      <coordinates>18.97129073615621,-32.49342641958731,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 21//Xsit 24//Valencia Late//5.17 Ha</name>
+    <Point>
+      <coordinates>18.96881294523387,-32.48637468171904,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 23//Xsit 3//Washington//0.7 Ha</name>
+    <Point>
+      <coordinates>18.96969726006627,-32.49140052888658,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 31//Xsit 26//Palmer//3.25 Ha</name>
+    <Point>
+      <coordinates>18.97849993814603,-32.49173217631698,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 32//Minneola//0.5 Ha</name>
+    <Point>
+      <coordinates>18.97824991387165,-32.49256303917525,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 33//Eureka//1.16 Ha</name>
+    <Point>
+      <coordinates>18.97762113183139,-32.49172824187096,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 34//Xsit 1//Palmer//3.4 Ha</name>
+    <Point>
+      <coordinates>18.97703488473558,-32.48888343704435,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 35//Xsit 23//Palmer//3.94 Ha</name>
+    <Point>
+      <coordinates>18.98284559958617,-32.49401821892124,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 36//Xsit 5//Delta//3.72 Ha</name>
+    <Point>
+      <coordinates>18.97713104728273,-32.4938528597219,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 37//Xsit 27//Midknight//1.53 Ha</name>
+    <Point>
+      <coordinates>18.97236873665466,-32.49427909383831,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 39//Eureka//2.24 Ha</name>
+    <Point>
+      <coordinates>18.97610554473389,-32.49540781657728,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 40//Xsit 6//Palmer//5.59 Ha</name>
+    <Point>
+      <coordinates>18.98377559980914,-32.49552178179415,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 42//Xsit 7//Robyn//12.3 Ha</name>
+    <Point>
+      <coordinates>18.98182693140088,-32.49535621893059,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 42//Xsit 45//Robyn//12.3 Ha</name>
+    <Point>
+      <coordinates>18.98172265561438,-32.49927511241992,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 42//Xsit 46//Robyn//12.3 Ha</name>
+    <Point>
+      <coordinates>18.98202967591046,-32.49760088206452,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 44//Xsit 22//Midknight//12.3 Ha</name>
+    <Point>
+      <coordinates>18.98453549647125,-32.49769991593864,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 44//Xsit 44//Midknight//12.3 Ha</name>
+    <Point>
+      <coordinates>18.98409680640013,-32.49937063196655,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 44//Xsit 43//Midknight//12.3 Ha</name>
+    <Point>
+      <coordinates>18.9826117357142,-32.50053466460324,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 46//Xsit 28//Palmer//3.39 Ha</name>
+    <Point>
+      <coordinates>18.99010559999162,-32.50097036190356,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 46//Xsit 8//Midknight//12.3 Ha</name>
+    <Point>
+      <coordinates>18.98741071091435,-32.49994527046503,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 47//Xsit 9//Robyn//12.2 Ha</name>
+    <Point>
+      <coordinates>18.98663184708985,-32.502263505191,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 47//Xsit 29//Robyn//12.2 Ha</name>
+    <Point>
+      <coordinates>18.99018637019371,-32.50322150958614,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 47//Xsit 42//Robyn//12.2 Ha</name>
+    <Point>
+      <coordinates>18.98456351129629,-32.50151543038705,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 48//Xsit 41//Nules//3.25 Ha</name>
+    <Point>
+      <coordinates>18.98868479476555,-32.50190081555115,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 49//Xsit 40//Tangelo//3.52 Ha</name>
+    <Point>
+      <coordinates>18.98891377654295,-32.5041920328957,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 50//Xsit 13//Washington//4.81 Ha</name>
+    <Point>
+      <coordinates>18.99187559351223,-32.51597748129765,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 52//Eureka//3.59 Ha</name>
+    <Point>
+      <coordinates>18.99134569171117,-32.51718282588949,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 53//Xsit 14//Robyn//3.3 Ha</name>
+    <Point>
+      <coordinates>18.99325755861,-32.51783756590229,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 54//Xsit 18//Nules//13.8 Ha</name>
+    <Point>
+      <coordinates>18.98816503783449,-32.51043750818762,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 54//Xsit 30//Nules//13.8 Ha</name>
+    <Point>
+      <coordinates>18.98746979292961,-32.51755114917837,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 54//Xsit 31//Nules//13.8 Ha</name>
+    <Point>
+      <coordinates>18.98769064695471,-32.51364388712943,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 55//Marisol/Clementine//1.78 Ha</name>
+    <Point>
+      <coordinates>18.9898778979639,-32.51482478672733,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 55//Xsit 16//Marisol//1.53 Ha</name>
+    <Point>
+      <coordinates>18.98740748318538,-32.51599328333183,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 56//Miho Wase//0.71 Ha</name>
+    <Point>
+      <coordinates>18.98902643525181,-32.51853675016646,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 56//Xsit 17//Miho Wase//1.94 Ha</name>
+    <Point>
+      <coordinates>18.99058677366774,-32.51384751851803,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 57//Xsit 10//Bahianinha//16.3 Ha</name>
+    <Point>
+      <coordinates>18.99464356089387,-32.50676078435392,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 57//Xsit 21//Bahianinha//16.3 Ha</name>
+    <Point>
+      <coordinates>18.98658887529761,-32.5069861219327,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 57//Xsit 39//Bahianinha//16.3 Ha</name>
+    <Point>
+      <coordinates>18.99407454849865,-32.50880184506071,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 57//Xsit 38//Bahianinha//16.3 Ha</name>
+    <Point>
+      <coordinates>18.99051921569645,-32.50776923452697,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 59//Xsit 11//Cara Cara//1.22 Ha</name>
+    <Point>
+      <coordinates>18.99623746823582,-32.50793210220093,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 60//Eureka//11.7 Ha</name>
+    <Point>
+      <coordinates>18.99102039276144,-32.50595066112771,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 61//Xsit 12//Afourer//4.97 Ha</name>
+    <Point>
+      <coordinates>18.99749999954696,-32.51029749635598,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 62//Xsit 32//Tango//3.85 Ha</name>
+    <Point>
+      <coordinates>18.99713113764492,-32.51374464264359,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 63//Xsit 20//Midknight//19.4 Ha</name>
+    <Point>
+      <coordinates>18.99067065573042,-32.51017468194167,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 63//Xsit 37//Midknight//19.4 Ha</name>
+    <Point>
+      <coordinates>18.9905320227518,-32.51170044635605,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 63//Xsit 34//Midknight//19.4 Ha</name>
+    <Point>
+      <coordinates>18.99256203220068,-32.5124272285202,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 63//Xsit 35//Midknight//19.4 Ha</name>
+    <Point>
+      <coordinates>18.99506020636843,-32.51160875416863,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 63//Xsit 33//Midknight//19.4 Ha</name>
+    <Point>
+      <coordinates>18.99462174778395,-32.51312275930077,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 64//Xsit 36//Turkey//3.11 Ha</name>
+    <Point>
+      <coordinates>18.99296417243745,-32.51101659169517,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Brakfontein - Blok 66//Xsit 15//Delta//5.23 Ha</name>
+    <Point>
+      <coordinates>18.99251663271599,-32.51520656453473,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Kweekkraal - Blok 147/1//Xsit 13//Washington//5 Ha</name>
+    <Point>
+      <coordinates>18.95910602526689,-32.44754750948582,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Kweekkraal - Blok 148/2//Xsit 10//Washington//3.73 Ha</name>
+    <Point>
+      <coordinates>18.95979898652744,-32.45227535271659,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Kweekkraal - Blok 150/4//Xsit 11//Robyn//4.36 Ha</name>
+    <Point>
+      <coordinates>18.96107508434652,-32.45363304940488,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Kweekkraal - Blok 151/5//Xsit 8//Robyn//6.53 Ha</name>
+    <Point>
+      <coordinates>18.96165999982459,-32.4557239409223,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Kweekkraal - Blok 151/5//Xsit 14//Robyn//6.53 Ha</name>
+    <Point>
+      <coordinates>18.96135845709696,-32.45860251393074,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Kweekkraal - Blok 152/6//Xsit 15//Washington//3.72 Ha</name>
+    <Point>
+      <coordinates>18.96299636188734,-32.45668755392984,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Kweekkraal - Blok 153/7//Xsit 9//Olinda//4.16 Ha</name>
+    <Point>
+      <coordinates>18.96222791931425,-32.45475708772838,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Kweekkraal - Blok 154/8//Xsit 12//Olinda//5.39 Ha</name>
+    <Point>
+      <coordinates>18.96153531688292,-32.45071455674175,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Kweekkraal - Blok 155/9//Olinda//2.61 Ha</name>
+    <Point>
+      <coordinates>18.96130720770261,-32.44862419339918,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Kweekkraal - Blok 156/13//Xsit 7//Palmer//4.55 Ha</name>
+    <Point>
+      <coordinates>18.96270696757834,-32.47214032959779,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Kweekkraal - Blok 157/14//Xsit 6//Bahianinha//1.11 Ha</name>
+    <Point>
+      <coordinates>18.96588202865882,-32.47169818520693,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Kweekkraal - Blok 158/15//Xsit 5//Olinda//3.15 Ha</name>
+    <Point>
+      <coordinates>18.96767197281335,-32.47149013066647,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Kweekkraal - Blok 159/16//Xsit 4//Robyn//8.68 Ha</name>
+    <Point>
+      <coordinates>18.96675216282623,-32.46806756351498,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Kweekkraal - Blok 159/16//Xsit 17//Robyn//8.68 Ha</name>
+    <Point>
+      <coordinates>18.9667763471714,-32.46995586525671,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Kweekkraal - Blok 160/17//Xsit 3//Washington//7.39 Ha</name>
+    <Point>
+      <coordinates>18.96461730593752,-32.46827148702592,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Kweekkraal - Blok 160/17//Xsit 18//Washington//7.39 Ha</name>
+    <Point>
+      <coordinates>18.96328089756732,-32.47061620623715,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Kweekkraal - Blok 161/18//Xsit  1//Newhall//3.75 Ha</name>
+    <Point>
+      <coordinates>18.96350977372456,-32.46693537957635,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Kweekkraal - Blok 162/19//Xsit 2//Midknight//4.21 Ha</name>
+    <Point>
+      <coordinates>18.96553095239845,-32.46634581503508,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Kweekkraal - Blok 163/20//Xsit 16//Midknight//3.85 Ha</name>
+    <Point>
+      <coordinates>18.96713002180758,-32.46611507415167,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Kweekkraal - Blok 181//Eureka//2.72 Ha</name>
+    <Point>
+      <coordinates>18.96258956036913,-32.44911893341233,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - De Meul - Blok 239//Xsit 4//Nules//5.81 Ha</name>
+    <Point>
+      <coordinates>18.99396101172872,-32.55608070658997,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - De Meul - Blok 240//Xsit 3//Robyn//9.39 Ha</name>
+    <Point>
+      <coordinates>18.99529716297978,-32.55653018914087,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - De Meul - Blok 240//Xsit 5//Robyn//9.39 Ha</name>
+    <Point>
+      <coordinates>18.99376283687993,-32.5593318872569,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - De Meul - Blok 241//Xsit 7//Bahianinha//6.36 Ha</name>
+    <Point>
+      <coordinates>18.99669180596624,-32.55948213892489,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - De Meul - Blok 241//Xsit 6//Bahianinha//6.36 Ha</name>
+    <Point>
+      <coordinates>18.99775236265533,-32.55593207069183,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - De Meul - Blok 242//Xsit 1//Delta//8.24 Ha</name>
+    <Point>
+      <coordinates>19.00004149124707,-32.55824773559633,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - De Meul - Blok 242//Xsit 2//Delta//8.24 Ha</name>
+    <Point>
+      <coordinates>18.99869654897868,-32.55929320400622,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Houtkaprug - Blok 230//Washington//1.1 Ha</name>
+    <Point>
+      <coordinates>19.0211362436658,-32.56195837171577,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Houtkaprug - Blok 231//Xsit 1//Washington//8 Ha</name>
+    <Point>
+      <coordinates>19.02211966525093,-32.56342046741966,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Houtkaprug - Blok 232//Xsit 2//Valencia Late//4.76 Ha</name>
+    <Point>
+      <coordinates>19.02026836391505,-32.56121880628296,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Houtkaprug - Blok 234//Xsit 3//Midknight//2.2 Ha</name>
+    <Point>
+      <coordinates>19.02058148781932,-32.55886603735087,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Houtkaprug - Blok 247//Xsit 4//Washington//6.68 Ha</name>
+    <Point>
+      <coordinates>19.013829649479,-32.54923963052021,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Houtkaprug - Blok 247//Xsit 5//Washington//6.68 Ha</name>
+    <Point>
+      <coordinates>19.01251716267577,-32.54702396275457,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Houtkaprug - Blok 248//Xsit 6//Robyn//3.1 Ha</name>
+    <Point>
+      <coordinates>19.01033833861498,-32.55055847828981,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Houtkaprug - Blok 249//Xsit 14//Robyn//3.66 Ha</name>
+    <Point>
+      <coordinates>19.0093612791106,-32.54783923401181,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Houtkaprug - Blok 250//Miho Wase//2.24 Ha</name>
+    <Point>
+      <coordinates>19.01124977692479,-32.54830498503038,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Houtkaprug - Blok 251//Xsit 15//Afourer//4.49 Ha</name>
+    <Point>
+      <coordinates>19.00968357784704,-32.54589865312774,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Houtkaprug - Blok 252//Xsit 1//Autumn Gold//20.8 Ha</name>
+    <Point>
+      <coordinates>19.01501250607855,-32.54385846438071,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Houtkaprug - Blok 252//Xsit 2//Autumn Gold//20.8 Ha</name>
+    <Point>
+      <coordinates>19.01458875806427,-32.53880910725156,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Houtkaprug - Blok 252//Xsit 3//Autumn Gold//20.8 Ha</name>
+    <Point>
+      <coordinates>19.01271102258342,-32.53873818476075,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Houtkaprug - Blok 252//Xsit 13//Autumn Gold//20.8 Ha</name>
+    <Point>
+      <coordinates>19.01597194927078,-32.54123630459243,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Houtkaprug - Blok 252//Xsit 12//Autumn Gold//20.8 Ha</name>
+    <Point>
+      <coordinates>19.01372117730004,-32.54147617726765,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Houtkaprug - Blok 253//Xsit 7//Afourer//21.9 Ha</name>
+    <Point>
+      <coordinates>19.01168930707842,-32.54461727373154,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Houtkaprug - Blok 253//Xsit 11//Afourer//21.9 Ha</name>
+    <Point>
+      <coordinates>19.01101093958574,-32.54033176640071,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Houtkaprug - Blok 253//Xsit 10//Afourer//21.9 Ha</name>
+    <Point>
+      <coordinates>19.01091469586345,-32.54169397257981,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Houtkaprug - Blok 253//Xsit 8//Afourer//21.9 Ha</name>
+    <Point>
+      <coordinates>19.01029418680312,-32.54331089496996,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Houtkaprug - Blok 253//Xsit 9//Afourer//21.9 Ha</name>
+    <Point>
+      <coordinates>19.0129790732534,-32.54332877519725,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Rooihoogte - Blok 235//Xsit 2//Washington//6.47 Ha</name>
+    <Point>
+      <coordinates>18.9953485093216,-32.56285188782255,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Rooihoogte - Blok 236//Xsit 1//Valencia Late//1.23 Ha</name>
+    <Point>
+      <coordinates>18.99279325590162,-32.56261740252106,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Rooihoogte - Blok 237//Xsit 4//Delta//1.75 Ha</name>
+    <Point>
+      <coordinates>18.99886710512944,-32.56402919724563,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Rooihoogte - Blok 238//Xsit 3//Midknight//2.42 Ha</name>
+    <Point>
+      <coordinates>18.99729853331456,-32.56365691346687,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Rooihoogte - Blok 244//Xsit 5//Turkey//6.21 Ha</name>
+    <Point>
+      <coordinates>19.00173581985323,-32.5650056610776,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Rooihoogte - Blok 244//Xsit 6//Turkey//6.21 Ha</name>
+    <Point>
+      <coordinates>19.00484418298372,-32.56529981335933,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Rooihoogte - Blok 245//Xsit 7//Delta//6.48 Ha</name>
+    <Point>
+      <coordinates>19.00236879280656,-32.56323267754042,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Rooihoogte - Blok 245//Xsit 8//Delta//6.48 Ha</name>
+    <Point>
+      <coordinates>19.00427283624446,-32.56360396244914,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Rooihoogte - Blok 246//Xsit 9//Nules//3.74 Ha</name>
+    <Point>
+      <coordinates>19.00688066497893,-32.56387482877357,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Hexrivier - Blok 270/1//Xsit 6//Washington//5.53 Ha</name>
+    <Point>
+      <coordinates>18.97501,-32.440385,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Hexrivier - Blok 271/4//Xsit 3//Tango//9 Ha</name>
+    <Point>
+      <coordinates>18.97703976366918,-32.44154222080466,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Hexrivier - Blok 271/4//Xsit 2//Tango//9 Ha</name>
+    <Point>
+      <coordinates>18.97152924967719,-32.44477181543918,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Hexrivier - Blok 272/5//Xsit 4//Midknight//4.67 Ha</name>
+    <Point>
+      <coordinates>18.97496827675412,-32.44460045440404,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Hexrivier - Blok 273/7//Xsit 2//Robyn//3 Ha</name>
+    <Point>
+      <coordinates>18.97283303797967,-32.44738676635325,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Hexrivier - Blok 274//Tango/2015//6.45 Ha</name>
+    <Point>
+      <coordinates>18.96817940166073,-32.44709475438606,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Sandkop (Ou Brakfontein) - Blok 260/22//Xsit 3//Valencia Late//17.6 Ha</name>
+    <Point>
+      <coordinates>18.97133761608321,-32.4848496189256,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Sandkop (Ou Brakfontein) - Blok 260/22//Xsit 8//Valencia Late//17.6 Ha</name>
+    <Point>
+      <coordinates>18.97007774355689,-32.48118682365691,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Sandkop (Ou Brakfontein) - Blok 260/22//Xsit 13//Valencia Late//17.6 Ha</name>
+    <Point>
+      <coordinates>18.97055114519494,-32.48284026914647,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Sandkop (Ou Brakfontein) - Blok 260/22//Xsit 14//Valencia Late//17.6 Ha</name>
+    <Point>
+      <coordinates>18.97046273185942,-32.4795221221784,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Sandkop (Ou Brakfontein) - Blok 261/23//Xsit 15//Lina//8.27 Ha</name>
+    <Point>
+      <coordinates>18.97342310354224,-32.47712439438265,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Sandkop (Ou Brakfontein) - Blok 261/23//Xsit 16//Lina//8.27 Ha</name>
+    <Point>
+      <coordinates>18.97149834893141,-32.47563796195014,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Sandkop (Ou Brakfontein) - Blok 262/24//Xsit 13//Robyn//8.92 Ha</name>
+    <Point>
+      <coordinates>18.97534101891737,-32.47652746520306,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Sandkop (Ou Brakfontein) - Blok 262/24//Xsit 14//Robyn//8.92 Ha</name>
+    <Point>
+      <coordinates>18.97409160194891,-32.47239856297156,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Sandkop (Ou Brakfontein) - Blok 263/25//Xsit 17//Midknight//9.48 Ha</name>
+    <Point>
+      <coordinates>18.97540639153859,-32.47952596152311,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Sandkop (Ou Brakfontein) - Blok 263/25//Xsit 16//Midknight//9.48 Ha</name>
+    <Point>
+      <coordinates>18.9742119293099,-32.47855977044206,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Sandkop (Ou Brakfontein) - Blok 264/26//Xsit 11//Lina//2.68 Ha</name>
+    <Point>
+      <coordinates>18.97443738130707,-32.48278050535296,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Sandkop (Ou Brakfontein) - Blok 265/27//Xsit 15//Midknight//4.71 Ha</name>
+    <Point>
+      <coordinates>18.97232814533226,-32.47897079611513,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Sandkop (Ou Brakfontein) - Blok 266/28//Xsit 10//Olinda//2.58 Ha</name>
+    <Point>
+      <coordinates>18.97347858038843,-32.48284663457334,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Sandkop (Ou Brakfontein) - Blok 267/29//Xsit 1//Bahianinha//12.8 Ha</name>
+    <Point>
+      <coordinates>18.97521203183804,-32.48527535391514,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Sandkop (Ou Brakfontein) - Blok 267/29//Xsit 2//Bahianinha//12.8 Ha</name>
+    <Point>
+      <coordinates>18.97288101480664,-32.48637818857268,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Sandkop (Ou Brakfontein) - Blok 267/29//Xsit 12//Bahianinha//12.8 Ha</name>
+    <Point>
+      <coordinates>18.97608478825052,-32.48755316436758,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Sandkop (Ou Brakfontein) - Blok 268/31//Afourer/2013//4.95 Ha</name>
+    <Point>
+      <coordinates>18.98218301704493,-32.48589566796035,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Sandkop (Ou Brakfontein) - Blok 269/32//Tango/2014//5.1 Ha</name>
+    <Point>
+      <coordinates>18.9771049800156,-32.47654457757596,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Danckeart - Blok 124//Bahianinha//1.1 Ha</name>
+    <Point>
+      <coordinates>19.01082949105982,-32.60953739219989,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Danckeart - Blok 125/181//Newhall//1.62 Ha</name>
+    <Point>
+      <coordinates>19.00477257282238,-32.6047097286929,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Danckeart - Blok 126/261//Xsit 4//Robyn//6.1 Ha</name>
+    <Point>
+      <coordinates>19.00747848712368,-32.60542006314095,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Danckeart - Blok 127/311//Xsit 10//Washington//5.42 Ha</name>
+    <Point>
+      <coordinates>19.01003976542363,-32.60890958102206,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Danckeart - Blok 128/312//Xsit 5//Washington//3.62 Ha</name>
+    <Point>
+      <coordinates>19.00766223200663,-32.61031077502896,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Danckeart - Blok 129/313//Xsit 6//Washington//1.15 Ha</name>
+    <Point>
+      <coordinates>19.01183849618749,-32.61802188804257,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Danckeart - Blok 130/314//Xsit 11//Washington//4.58 Ha</name>
+    <Point>
+      <coordinates>19.00794137331266,-32.60856208757959,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Danckeart - Blok 131/315//Xsit 7//Washington//1.9 Ha</name>
+    <Point>
+      <coordinates>19.0054638694701,-32.60744565692406,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Danckeart - Blok 132/316//Xsit 2//Washington//2 Ha</name>
+    <Point>
+      <coordinates>19.00590280942738,-32.60823857792099,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Danckeart - Blok 133//Navel//1.58 Ha</name>
+    <Point>
+      <coordinates>19.00873800876932,-32.61201456673474,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Danckeart - Blok 134/5/6//Eureka//0.94 Ha</name>
+    <Point>
+      <coordinates>19.01188216524724,-32.61953628970031,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Danckeart - Blok 134/5/6//Eureka//0.59 Ha</name>
+    <Point>
+      <coordinates>19.00924352503609,-32.60588515503387,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Danckeart - Blok 137/2251//Xsit 1//Delta//1.71 Ha</name>
+    <Point>
+      <coordinates>19.00501182738226,-32.60572570862634,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Danckeart - Blok 138//2252//Delta//1.57 Ha</name>
+    <Point>
+      <coordinates>19.00398678792786,-32.60301210802166,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Danckeart - Blok 139/2291//Valencia Late//1.84 Ha</name>
+    <Point>
+      <coordinates>19.00921207458139,-32.60644537231401,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Danckeart - Blok 140/2292//Xsit 8//Valencia Late//10.5 Ha</name>
+    <Point>
+      <coordinates>19.01039250867246,-32.6151325608103,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Danckeart - Blok 140/2292//Xsit 9//Valencia Late//10.5 Ha</name>
+    <Point>
+      <coordinates>19.00931177120073,-32.6130927042077,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Danckeart - Blok 141/2293//Xsit 3//Valencia Late//4.22 Ha</name>
+    <Point>
+      <coordinates>19.00937716712586,-32.61012018789337,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Danckeart - Blok 144/2312//Xsit 12//Midknight//0.98 Ha</name>
+    <Point>
+      <coordinates>19.00418778924683,-32.60400757688563,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Danckeart - Blok 180//Xsit 13//Turkey//5.81 Ha</name>
+    <Point>
+      <coordinates>19.00600016910013,-32.60193295013031,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tweefontein - Blok 164//Tangelo//1.68 Ha</name>
+    <Point>
+      <coordinates>19.0125662858484,-32.64239868142335,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tweefontein - Blok 165//Xsit 1//Delta//0.68 Ha</name>
+    <Point>
+      <coordinates>19.01182556432876,-32.6436438140468,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tweefontein - Blok 165//Delta//0.66 Ha</name>
+    <Point>
+      <coordinates>19.01283668957334,-32.64102086402199,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tweefontein - Blok 166//Eureka//1.49 Ha</name>
+    <Point>
+      <coordinates>19.01166395664511,-32.64139852947058,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tweefontein - Blok 167//Xsit 2//Palmer//5 Ha</name>
+    <Point>
+      <coordinates>19.01008717073617,-32.64229773431789,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tweefontein - Blok 168/9/71//Xsit 3//Robyn//16.7 Ha</name>
+    <Point>
+      <coordinates>19.00929094199373,-32.6406717483847,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tweefontein - Blok 168/9/71//Xsit 4//Robyn//16.7 Ha</name>
+    <Point>
+      <coordinates>19.00733935557676,-32.64171376397048,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tweefontein - Blok 168/9/71//Xsit 6//Robyn//16.7 Ha</name>
+    <Point>
+      <coordinates>19.00717367721097,-32.63896087010282,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tweefontein - Blok 168/9/71//Xsit 5//Robyn//16.7 Ha</name>
+    <Point>
+      <coordinates>19.00849905906821,-32.64430969869112,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tweefontein - Blok 170//Xsit 7//Cara Cara//5.18 Ha</name>
+    <Point>
+      <coordinates>19.01094981310107,-32.63827523663715,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tweefontein - Blok 172//Lina//1.61 Ha</name>
+    <Point>
+      <coordinates>19.00982300898356,-32.6397205628372,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Groenvlei - Blok 118//Xsit 2//Washington//3.7 Ha</name>
+    <Point>
+      <coordinates>19.00154376222057,-32.64211296008961,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Groenvlei - Blok 119//Xsit 4//Washington//2 Ha</name>
+    <Point>
+      <coordinates>18.99902339444687,-32.64022461666048,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Groenvlei - Blok 120//Xsit 1//Washington//2.3 Ha</name>
+    <Point>
+      <coordinates>19.00368940850176,-32.64215311790048,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Groenvlei - Blok 121//Xsit 3//Newhall//0.4 Ha</name>
+    <Point>
+      <coordinates>19.0007815516121,-32.64304745952953,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Groenvlei - Blok 122//Valencia Late//1.88 Ha</name>
+    <Point>
+      <coordinates>19.00200805864476,-32.64113491142329,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Groenvlei - Blok 190//Esbal/2014//9.41 Ha</name>
+    <Point>
+      <coordinates>19.00538660086317,-32.64014746523443,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Groenvlei - Blok 191//Esbal/2014/Net blok//9.56 Ha</name>
+    <Point>
+      <coordinates>19.00259315336763,-32.63519187239679,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Groenvlei - Blok 192//Nules/2014//4.69 Ha</name>
+    <Point>
+      <coordinates>18.99837325708906,-32.64239767861274,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Groenvlei - Blok 193//Nules/2014/Net blok/4.92 Ha</name>
+    <Point>
+      <coordinates>18.99919908711414,-32.63656071227303,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Groenvlei - Blok 194//Clementine/2014/Net blok//3.87 Ha</name>
+    <Point>
+      <coordinates>18.9997334029,-32.63468275810747,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Groenvlei - Blok 195//Clemenluz/2014//1.95 Ha</name>
+    <Point>
+      <coordinates>19.00589962859199,-32.64335246444432,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Groenvlei - Blok 196//Esbal/2014//13.7 Ha</name>
+    <Point>
+      <coordinates>19.00335331717629,-32.63699718302472,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Groenvlei - Blok 197//Nules/2014//6.18 Ha</name>
+    <Point>
+      <coordinates>19.00015242369971,-32.63852267932303,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Koornlandskloof - Blok 74//Xsit 1//Palmer//6.62 Ha</name>
+    <Point>
+      <coordinates>19.0171277316583,-32.67279134732435,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Koornlandskloof - Blok 75//Xsit 3//Valencia Late//2.36 Ha</name>
+    <Point>
+      <coordinates>19.01440746076705,-32.67246918814987,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Koornlandskloof - Blok 76//Xsit 2//Washington//4.5 Ha</name>
+    <Point>
+      <coordinates>19.01602152178475,-32.67455772908533,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Koornlandskloof - Blok 77//Valencia Late//1.55 Ha</name>
+    <Point>
+      <coordinates>19.01513654948773,-32.67626208552981,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Koornlandskloof - Blok 78//Eureka//2.16 Ha</name>
+    <Point>
+      <coordinates>19.01694969807182,-32.6707303553945,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Koornlandskloof - Blok 79//Tangelo//1.35 Ha</name>
+    <Point>
+      <coordinates>19.0138612924467,-32.67334853258748,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Koornlandskloof - Blok 80//Morr//0.97 Ha</name>
+    <Point>
+      <coordinates>19.01587296187122,-32.67112541411542,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Koornlandskloof - Blok 81//Xsit 6//Palmer//9.76 Ha</name>
+    <Point>
+      <coordinates>19.01792282848349,-32.66578981153371,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Koornlandskloof - Blok 81//Xsit 8//Palmer//9.76 Ha</name>
+    <Point>
+      <coordinates>19.01576100104329,-32.6631465542739,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Koornlandskloof - Blok 82//Xsit 4//Newhall//5.71 Ha</name>
+    <Point>
+      <coordinates>19.0181715184892,-32.66965396203417,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Koornlandskloof - Blok 82//Xsit 5//Newhall//5.71 Ha</name>
+    <Point>
+      <coordinates>19.02132848325239,-32.66881188737283,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Koornlandskloof - Blok 82//Xsit 11//Newhall//5.71 Ha</name>
+    <Point>
+      <coordinates>19.01912970130451,-32.66765791629172,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Koornlandskloof - Blok 83//Xsit 7//Robyn//10.7 Ha</name>
+    <Point>
+      <coordinates>19.01510745856354,-32.66144420864897,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Koornlandskloof - Blok 83//Xsit 10//Robyn//10.7 Ha</name>
+    <Point>
+      <coordinates>19.01427105757751,-32.65864623509023,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Koornlandskloof - Blok 83//Xsit 9//Robyn//10.7 Ha</name>
+    <Point>
+      <coordinates>19.01534042908809,-32.65960038284934,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Koornlandskloof - Blok 84//Miho Wase//1.43 Ha</name>
+    <Point>
+      <coordinates>19.01936867158602,-32.66912457372042,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Kleinvlei - Blok 67//Xsit 2//Valencia Late//4 Ha</name>
+    <Point>
+      <coordinates>19.04358958096127,-32.66506316119304,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Kleinvlei - Blok 68/69/70//Xsit 1//Palmer//7.65 Ha</name>
+    <Point>
+      <coordinates>19.04627827736778,-32.66456679811888,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Kleinvlei - Blok 68/69/70//Xsit 7//Palmer//7.65 Ha</name>
+    <Point>
+      <coordinates>19.04458181906581,-32.66644767605494,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Kleinvlei - Blok 71//Xsit 6//Palmer//4.71 Ha</name>
+    <Point>
+      <coordinates>19.04137114499292,-32.66635886086101,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Kleinvlei - Blok 72//Xsit 3//Cara Cara//4.12 Ha</name>
+    <Point>
+      <coordinates>19.03700793983285,-32.66919347588377,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Kleinvlei - Blok 72//Xsit 5//Cara Cara//4.12 Ha</name>
+    <Point>
+      <coordinates>19.03246974678433,-32.67220506626347,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Kleinvlei - Blok 73//Xsit 4//Tangelo//2.63 Ha</name>
+    <Point>
+      <coordinates>19.03413025173471,-32.67178831130736,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Kleinvlei - Blok 101//Xsit 9//Orr//2.96 Ha</name>
+    <Point>
+      <coordinates>19.0346142462449,-32.66878335237695,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Kleinvlei - Blok 102//Xsit 10//Afourer//4.16 Ha</name>
+    <Point>
+      <coordinates>19.03261269502226,-32.66979450039544,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Kleinvlei - Blok 103//Nova//1.4 Ha</name>
+    <Point>
+      <coordinates>19.03613605407905,-32.66762467001352,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Kleinvlei - Blok 104//Xsit 8//Fairchild//2.59 Ha</name>
+    <Point>
+      <coordinates>19.03739965925589,-32.66780968865686,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Thara Khama - Blok 200//Newhall//1.77 Ha</name>
+    <Point>
+      <coordinates>19.08752610755578,-32.85847745369918,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Thara Khama - Blok 201//Xsit 16//Washington//10.6 Ha</name>
+    <Point>
+      <coordinates>19.0932339046644,-32.85596243328973,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Thara Khama - Blok 201//Xsit 17//Washington//10.6 Ha</name>
+    <Point>
+      <coordinates>19.09001593875764,-32.85517188550995,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Thara Khama - Blok 202//Xsit 8//Washington//2.95 Ha</name>
+    <Point>
+      <coordinates>19.0984542458402,-32.85658776220884,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Thara Khama - Blok 203//Washington//3.3 Ha</name>
+    <Point>
+      <coordinates>19.09557727197086,-32.85576600168704,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Thara Khama - Blok 204//Xsit 15//Washington//3.49 Ha</name>
+    <Point>
+      <coordinates>19.08623031056753,-32.85589773688974,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Thara Khama - Blok 205//Xsit 9//Robyn//13.8 Ha</name>
+    <Point>
+      <coordinates>19.09871156054544,-32.85800603720798,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Thara Khama - Blok 205//Xsit 12//Robyn//13.8 Ha</name>
+    <Point>
+      <coordinates>19.09460404158496,-32.85772354680833,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Thara Khama - Blok 206//Valencia Late//2.26 Ha</name>
+    <Point>
+      <coordinates>19.09446403526504,-32.85482446587851,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Thara Khama - Blok 207//Xsit 14//Valencia Late//3.98 Ha</name>
+    <Point>
+      <coordinates>19.08663350366586,-32.85746061234634,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Thara Khama - Blok 208//Xsit 13//Midknight//2.72 Ha</name>
+    <Point>
+      <coordinates>19.08939494979201,-32.85789621912012,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Thara Khama - Blok 209//Xsit 5//Lina//1.35 Ha</name>
+    <Point>
+      <coordinates>19.10097936323572,-32.85690340071378,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Thara Khama - Blok 210//Xsit 6//Midknight//4.82 Ha</name>
+    <Point>
+      <coordinates>19.09941121268329,-32.85478038516037,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Thara Khama - Blok 211//Xsit 1//Midknight//8.19 Ha</name>
+    <Point>
+      <coordinates>19.10485281356186,-32.86068018571637,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Thara Khama - Blok 211//Xsit 2//Midknight//8.19 Ha</name>
+    <Point>
+      <coordinates>19.10351843428781,-32.85953188482268,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Thara Khama - Blok 211//Xsit 3//Midknight//8.19 Ha</name>
+    <Point>
+      <coordinates>19.10240841545318,-32.85836021891161,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Thara Khama - Blok 212//Xsit 11//Esbal//6.34 Ha</name>
+    <Point>
+      <coordinates>19.09493718885397,-32.85935396134141,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Thara Khama - Blok 213//Xsit 7//Nules//1.27 Ha</name>
+    <Point>
+      <coordinates>19.09793718632394,-32.85348188966235,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Thara Khama - Blok 214//Xsit 4//Miho Wase//2.93 Ha</name>
+    <Point>
+      <coordinates>19.10109887156985,-32.86040853858248,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Thara Khama - Blok 214//Xsit 10//Miho Wase//2.93 Ha</name>
+    <Point>
+      <coordinates>19.09954032731162,-32.85868564635565,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tienrivieren - Blok 105//Valencia Late//2.56 Ha</name>
+    <Point>
+      <coordinates>19.08051600921973,-32.8073722666967,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tienrivieren - Blok 106/107//Xsit 1//Val/Was//1.74 Ha</name>
+    <Point>
+      <coordinates>19.08280302507305,-32.80085226442805,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tienrivieren - Blok 108//Xsit 8//Washington//7.15 Ha</name>
+    <Point>
+      <coordinates>19.07446325815567,-32.79838859776294,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tienrivieren - Blok 108//Xsit 28//Washington//7.15 Ha</name>
+    <Point>
+      <coordinates>19.07250920793754,-32.7978703255345,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tienrivieren - Blok 109//Xsit 2//Washington//5.27 Ha</name>
+    <Point>
+      <coordinates>19.07422000027334,-32.80054746977546,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tienrivieren - Blok 110//Xsit 3//Midknight//5.1 Ha</name>
+    <Point>
+      <coordinates>19.07139728530235,-32.79914097035262,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tienrivieren - Blok 111//Eureka//1.1 Ha</name>
+    <Point>
+      <coordinates>19.06742095591046,-32.79395633811546,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tienrivieren - Blok 111//Eureka//3.5 Ha</name>
+    <Point>
+      <coordinates>19.07333658366897,-32.80325506711058,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tienrivieren - Blok 112//Xsit 27//Orr//18.9 Ha</name>
+    <Point>
+      <coordinates>19.06889000506616,-32.79789979344919,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tienrivieren - Blok 112//Xsit 25//Orr//18.9 Ha</name>
+    <Point>
+      <coordinates>19.06796068214557,-32.79617265195252,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tienrivieren - Blok 112//Xsit 26//Orr//18.9 Ha</name>
+    <Point>
+      <coordinates>19.06982445725799,-32.79659053487301,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tienrivieren - Blok 112//Xsit 23//Orr//18.9 Ha</name>
+    <Point>
+      <coordinates>19.06862839228133,-32.79416242429075,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tienrivieren - Blok 112//Xsit 24//Orr//18.9 Ha</name>
+    <Point>
+      <coordinates>19.07066982808723,-32.794478637541,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tienrivieren - Blok 113//Xsit 4//Valencia Late//2.51 Ha</name>
+    <Point>
+      <coordinates>19.06895676915534,-32.7995854287708,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tienrivieren - Blok 113//Xsit 22//Valencia Late//3 Ha</name>
+    <Point>
+      <coordinates>19.06788419356258,-32.80117914394537,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tienrivieren - Blok 114//Washington//3.14 Ha</name>
+    <Point>
+      <coordinates>19.07023951964331,-32.80058005806503,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tienrivieren - Blok 115//Valencia Late//1.77 Ha</name>
+    <Point>
+      <coordinates>19.07104882129796,-32.80255441449734,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tienrivieren - Blok 116//Xsit 6//Washington//7.38 Ha</name>
+    <Point>
+      <coordinates>19.06854894220483,-32.803004647073,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tienrivieren - Blok 116//Xsit 21//Washington//7.38 Ha</name>
+    <Point>
+      <coordinates>19.07255189881537,-32.80321044412873,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tienrivieren - Blok 175//Xsit 11//Autumn Gold//6.22 Ha</name>
+    <Point>
+      <coordinates>19.07496120015065,-32.80520913787616,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tienrivieren - Blok 175//Xsit 7//Autumn Gold//4.71 Ha</name>
+    <Point>
+      <coordinates>19.07441000028684,-32.79759676416485,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tienrivieren - Blok 176//Xsit 9//Afourer//26.7 Ha</name>
+    <Point>
+      <coordinates>19.075152559598,-32.79875180747388,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tienrivieren - Blok 176//Xsit 10//Afourer//26.7 Ha</name>
+    <Point>
+      <coordinates>19.07508919105471,-32.8023143749959,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tienrivieren - Blok 176//Xsit 16//Afourer//26.7 Ha</name>
+    <Point>
+      <coordinates>19.07852815498391,-32.80047260721417,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tienrivieren - Blok 176//Xsit 19//Afourer//26.7 Ha</name>
+    <Point>
+      <coordinates>19.07746010171193,-32.80395500569776,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tienrivieren - Blok 176//Xsit 30//Afourer//26.7 Ha</name>
+    <Point>
+      <coordinates>19.07787777920368,-32.80169017041266,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tienrivieren - Blok 176//Xsit 29//Afourer//26.7 Ha</name>
+    <Point>
+      <coordinates>19.07618030322386,-32.80033911010805,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tienrivieren - Blok 176//Xsit 31//Afourer//26.7 Ha</name>
+    <Point>
+      <coordinates>19.07799119633393,-32.79916577892445,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tienrivieren - Blok 177//Xsit 12//Cambria//31.8 Ha</name>
+    <Point>
+      <coordinates>19.08213339869204,-32.80697952230123,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tienrivieren - Blok 177//Xsit 13//Cambria//31.8 Ha</name>
+    <Point>
+      <coordinates>19.08036242934084,-32.8057440630939,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tienrivieren - Blok 177//Xsit 14//Cambria//31.8 Ha</name>
+    <Point>
+      <coordinates>19.08100554967302,-32.80435178051008,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tienrivieren - Blok 177//Xsit 15//Cambria//31.8 Ha</name>
+    <Point>
+      <coordinates>19.08052009806331,-32.80190183589979,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tienrivieren - Blok 177//Xsit 17//Cambria//31.8 Ha</name>
+    <Point>
+      <coordinates>19.08624816542281,-32.80143083893051,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tienrivieren - Blok 177//Xsit 18//Cambria//31.8 Ha</name>
+    <Point>
+      <coordinates>19.07837008854285,-32.80743136047381,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tienrivieren - Blok 177//Xsit 32//Cambria//31.8 Ha</name>
+    <Point>
+      <coordinates>19.08036031064268,-32.79970670705585,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tienrivieren - Blok 177//Xsit 20//Cambria//31.8 Ha</name>
+    <Point>
+      <coordinates>19.08194011392235,-32.80321440663236,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Tienrivieren - Blok 178//Eureka//12.6 Ha</name>
+    <Point>
+      <coordinates>19.07166613288557,-32.80484533262097,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Misgunt - Blok 220//Xsit 2//Palmer//5.75 Ha</name>
+    <Point>
+      <coordinates>19.06422068955025,-32.77097904853378,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Misgunt - Blok 221//Xsit 1//Robyn//10.2 Ha</name>
+    <Point>
+      <coordinates>19.0685514512049,-32.77177993883726,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Misgunt - Blok 221//Xsit 5//Robyn//10.2 Ha</name>
+    <Point>
+      <coordinates>19.06498101378164,-32.77269497641053,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Misgunt - Blok 222//Xsit 3//Midknight//8.42 Ha</name>
+    <Point>
+      <coordinates>19.06178291717718,-32.77008784217535,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Misgunt - Blok 222//Xsit 4//Midknight//8.42 Ha</name>
+    <Point>
+      <coordinates>19.05839960295949,-32.77160544939455,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Misgunt - Blok 223//Xsit 6//Autumn Gold//4.98 Ha</name>
+    <Point>
+      <coordinates>19.05795848651658,-32.76758748856371,0</coordinates>
+    </Point>
+  </Placemark>
+</Folder>

@@ -1,0 +1,776 @@
+<Folder xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+    <name>SMG - Korhaanshoogte - KR1//Xsit 6//Navel//1.81 Ha</name>
+    <Point>
+      <coordinates>18.96416179221171,-32.49027640996589,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte - KR2//Navel//1.84 Ha</name>
+    <Point>
+      <coordinates>18.96311868031571,-32.49012292920838,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte - KR3//Xsit 5//Navel//1.28 Ha</name>
+    <Point>
+      <coordinates>18.96201681598227,-32.48995632456217,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte - KR5//Xsit 7//Robyn//2.9 Ha</name>
+    <Point>
+      <coordinates>18.96372876465717,-32.48723289857569,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte - KR6//Robyn//1.83 Ha</name>
+    <Point>
+      <coordinates>18.96301983284675,-32.48774860348666,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte - KR7//Navel//1.62 Ha</name>
+    <Point>
+      <coordinates>18.96251571565608,-32.48926252919379,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte - KR8//Bahianinha//1.76 Ha</name>
+    <Point>
+      <coordinates>18.96173592979848,-32.48874853045384,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte - KR9//Xsit 8//Midknight//2.19 Ha</name>
+    <Point>
+      <coordinates>18.96364420214706,-32.48473268946735,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte - KR10//Washington//1.52 Ha</name>
+    <Point>
+      <coordinates>18.96289185443833,-32.48650290042819,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte - KR11//Valencia//1 Ha</name>
+    <Point>
+      <coordinates>18.96170942917343,-32.48655283661765,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte - KR12//Xsit 4//Bahianinha//2.19 Ha</name>
+    <Point>
+      <coordinates>18.96086609726865,-32.48704492044663,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte - KR13//Xsit 9//Washington//2.78 Ha</name>
+    <Point>
+      <coordinates>18.96162904480212,-32.48521292255847,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte - KR14//Xsit 3//Robyn//1.29 Ha</name>
+    <Point>
+      <coordinates>18.96372160637333,-32.48409382563062,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte - KR15//Robyn//1.21 Ha</name>
+    <Point>
+      <coordinates>18.96260192917599,-32.48323475119315,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte - KR16//Midknight//1.1 Ha</name>
+    <Point>
+      <coordinates>18.96193271860565,-32.48364368128837,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte - KR17//Navel//1.1 Ha</name>
+    <Point>
+      <coordinates>18.96336242854834,-32.48190321839771,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte - KR18//Clemetine//2 Ha</name>
+    <Point>
+      <coordinates>18.96309618923553,-32.48174388489923,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte - KR18//Clementine//0.35 Ha</name>
+    <Point>
+      <coordinates>18.96233933948356,-32.48013316707474,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte - KR18//Nova//0.57 Ha</name>
+    <Point>
+      <coordinates>18.96275665587002,-32.48047058918395,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte - KR19//Xsit 1//Navel//2.28 Ha</name>
+    <Point>
+      <coordinates>18.96210572801732,-32.48092481389724,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte - KR19//Xsit 2//Navel//2.28 Ha</name>
+    <Point>
+      <coordinates>18.96204420743142,-32.48215114475713,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte - KR20//Bahianinha//3.46 Ha</name>
+    <Point>
+      <coordinates>18.96078797650716,-32.48211821087485,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte - KR21//Xsit 10//Robyn//2.26 Ha</name>
+    <Point>
+      <coordinates>18.95910844656243,-32.48105814355539,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte - KR22//Washington//2.56 Ha</name>
+    <Point>
+      <coordinates>18.96031623560002,-32.48034264626433,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte - KR23//Robyn//0.85 Ha</name>
+    <Point>
+      <coordinates>18.96146061119051,-32.47992851161308,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte - KR24//Tambor//1.42 Ha</name>
+    <Point>
+      <coordinates>18.9608136969124,-32.48836877436978,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 1 - K1//Xsit 3//Washington//3.92 Ha</name>
+    <Point>
+      <coordinates>18.97475442694548,-32.50440946319851,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 1 - K2//Xsit 14//Valencia//2.91 Ha</name>
+    <Point>
+      <coordinates>18.97573924133294,-32.502747194935,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 1 - K3//Washington//1.3 Ha</name>
+    <Point>
+      <coordinates>18.97566874433502,-32.50472553674846,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 1 - K4//Xsit 13//Washington//2.58 Ha</name>
+    <Point>
+      <coordinates>18.9731919332434,-32.50144733905322,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 1 - K5//Newhall//0.82 Ha</name>
+    <Point>
+      <coordinates>18.97373212827678,-32.50265573969396,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 1 - K6//Valencia//1.48 Ha</name>
+    <Point>
+      <coordinates>18.96900244563301,-32.50529344933167,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 1 - K7//Xsit 1//Washington//2.42 Ha</name>
+    <Point>
+      <coordinates>18.96776978847598,-32.50468571435238,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 1 - K8A//Cara Cara//0.56 Ha</name>
+    <Point>
+      <coordinates>18.9689569327545,-32.50450117906694,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 1 - K8B//Xsit 11//Bahianinha//1.51 Ha</name>
+    <Point>
+      <coordinates>18.96913651174128,-32.50358102372684,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 1 - K9//Midnight//0.76 Ha</name>
+    <Point>
+      <coordinates>18.96828712032108,-32.50805652057829,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 1 - K10//Xsit 10//Midnight//1.61 Ha</name>
+    <Point>
+      <coordinates>18.96774398076885,-32.50718619190297,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 1 - K11//Xsit 2//Washington//1.88 Ha</name>
+    <Point>
+      <coordinates>18.96740884924288,-32.50245917294114,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 1 - K12//Australian Navel//1.1 Ha</name>
+    <Point>
+      <coordinates>18.96856317166934,-32.50185587432633,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 1 - K13//Newhalls//1.18 Ha</name>
+    <Point>
+      <coordinates>18.9680497334263,-32.50128786693082,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 1 - K14//Xsit 12//Bahianinha//1.83 Ha</name>
+    <Point>
+      <coordinates>18.9678972223216,-32.50059905374216,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 1 - K15//Nova//1.1 Ha</name>
+    <Point>
+      <coordinates>18.96759814763082,-32.49991133626907,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 1 - K16//Nova//2.95 Ha</name>
+    <Point>
+      <coordinates>18.9682751866108,-32.49891151169083,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 1 - K17//Xsit 9//Bahianinha//0.64 Ha</name>
+    <Point>
+      <coordinates>18.9671067786971,-32.49817469384002,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 1 - K18//Nova//1.72 Ha</name>
+    <Point>
+      <coordinates>18.96706728574196,-32.49717686605953,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 1 - K19//Robyn//1.14 Ha</name>
+    <Point>
+      <coordinates>18.96821230507223,-32.50602105443123,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 1 - K27//Xsit 4//Washington//3.16 Ha</name>
+    <Point>
+      <coordinates>18.97947237267269,-32.50230201161141,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 1 - K28//Midknight//2.26 Ha</name>
+    <Point>
+      <coordinates>18.97574689186529,-32.49862555585323,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 1 - K29//Xsit 5//Midknight//17.5 Ha</name>
+    <Point>
+      <coordinates>18.97730087213293,-32.50048976568847,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 1 - K29//Xsit 6//Midknight//17.5 Ha</name>
+    <Point>
+      <coordinates>18.97497146267656,-32.4990458597453,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 1 - K29//Xsit 7//Midknight//17.5 Ha</name>
+    <Point>
+      <coordinates>18.97261053771781,-32.49702340623626,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 1 - K29//Xsit 15//Midknight//17.5 Ha</name>
+    <Point>
+      <coordinates>18.97013165635973,-32.49619288208566,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 1 - K30</name>
+    <Point>
+      <coordinates>18.96863112119475,-32.4951189314288,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Groenkloof - G1//Unplanted//0.63 Ha</name>
+    <Point>
+      <coordinates>19.0276298662596,-32.70250506302617,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Groenkloof - G2//Washington//0.3 Ha</name>
+    <Point>
+      <coordinates>19.02647116507946,-32.70270372497076,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Groenkloof - G3//Valencia//0.14 Ha</name>
+    <Point>
+      <coordinates>19.02597211873491,-32.70282052758918,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Groenkloof - G4//Eureka//0.36 Ha</name>
+    <Point>
+      <coordinates>19.02539172290943,-32.70200956728715,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Groenkloof - G5//Xsit 1//Washington//1.82 Ha</name>
+    <Point>
+      <coordinates>19.02592792306234,-32.70180167188947,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Groenkloof - G6//Xsit 3//Valencia//1.65 Ha</name>
+    <Point>
+      <coordinates>19.02752851280873,-32.69909410285188,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Groenkloof - G7//Palmer/2015//0.54 Ha</name>
+    <Point>
+      <coordinates>19.02687468097689,-32.70001895572619,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Groenkloof - G8//Valencia//1.23 Ha</name>
+    <Point>
+      <coordinates>19.02615565986846,-32.70042913958677,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Groenkloof - G9//Xsit 2//Washington//0.96 Ha</name>
+    <Point>
+      <coordinates>19.02672039147366,-32.70098951699603,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Groenkloof - G10//Eureka//0.23 Ha</name>
+    <Point>
+      <coordinates>19.02498555085324,-32.70135633303447,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Groenkloof - G11//Washington//1.27 Ha</name>
+    <Point>
+      <coordinates>19.02454721251191,-32.70007224407735,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Groenkloof - G12//Robyn//1.89 Ha</name>
+    <Point>
+      <coordinates>19.02414883021836,-32.69850481969454,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Groenkloof - G13//Xsit 4//Washington//3.3 Ha</name>
+    <Point>
+      <coordinates>19.02613556578792,-32.69576963179916,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Groenkloof - G14//Lina//1 Ha</name>
+    <Point>
+      <coordinates>19.02270671566706,-32.69552308526097,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Groenkloof - G15//Xsit 5//Midknight//1.21 Ha</name>
+    <Point>
+      <coordinates>19.02321884232557,-32.69579904293491,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Groenkloof - G16//Xsit 6//Washington//2.85 Ha</name>
+    <Point>
+      <coordinates>19.02299564685138,-32.69381768479141,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Groenkloof - G17//Xsit 7//Valencia//3.37 Ha</name>
+    <Point>
+      <coordinates>19.02285895407031,-32.69107810651767,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Groenkloof - G18//Fino/Suurlemoen//1.77 Ha</name>
+    <Point>
+      <coordinates>19.0262539716615,-32.69113434785962,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Groenkloof - G19//Nules//2.8 Ha</name>
+    <Point>
+      <coordinates>19.02164310773943,-32.69310200521692,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Groenkloof - G20//Miho Wase//1 Ha</name>
+    <Point>
+      <coordinates>19.02477796182531,-32.70235300191712,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Groenkloof - G21//Miho Wase//1.1 Ha</name>
+    <Point>
+      <coordinates>19.0240443677111,-32.70068399519068,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Groenkloof - G23//Xsit 8//Washingon//6.1 Ha</name>
+    <Point>
+      <coordinates>19.02757127980513,-32.69468627345821,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Groenkloof - G24//Midknight//1.54 Ha</name>
+    <Point>
+      <coordinates>19.02570939004804,-32.69969670547453,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 2 - KH3//Valencia//1.42 Ha</name>
+    <Point>
+      <coordinates>18.96974894105802,-32.5148470669071,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 2 - KH4//Xsit 2//Washington//4.26 Ha</name>
+    <Point>
+      <coordinates>18.97214923750207,-32.51590427417085,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 2 - KH5//Xsit 12//Navel//3 Ha</name>
+    <Point>
+      <coordinates>18.97581904979663,-32.52347767438585,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 2 - KH6//Xsit 5//Midknight//5.53 Ha</name>
+    <Point>
+      <coordinates>18.97570635683345,-32.51996859652344,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 2 - KH7//Xsit 4//Valencia//2.53 Ha</name>
+    <Point>
+      <coordinates>18.97402536377285,-32.51867792710532,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 2 - KH7//Valencia//1.53 Ha</name>
+    <Point>
+      <coordinates>18.9719029282901,-32.51794887242637,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 2 - KH9//Robyn//2.14 Ha</name>
+    <Point>
+      <coordinates>18.97314422438811,-32.51902192831583,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 2 - KH11//Xsit 3//Washington//2.92 Ha</name>
+    <Point>
+      <coordinates>18.97194188342801,-32.51974662754233,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 2 - KH12//Clementine/2015//1.98 Ha</name>
+    <Point>
+      <coordinates>18.97306694495424,-32.52206387105722,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 2 - KH13//Xsit 6//Newhall//2.4 Ha</name>
+    <Point>
+      <coordinates>18.97334509916332,-32.52087469348466,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 2 - KH13//Xsit 8//Newhall//2.4 Ha</name>
+    <Point>
+      <coordinates>18.97337440751996,-32.51997177708805,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 2 - KH14//Midknight//3.14 Ha</name>
+    <Point>
+      <coordinates>18.97434156855822,-32.52197484325696,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 2 - KH15//Midknight/2015//0.63 Ha</name>
+    <Point>
+      <coordinates>18.97500296505099,-32.52150735005091,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 2 - KH17//Clementine/2015//3 Ha</name>
+    <Point>
+      <coordinates>18.97366172005139,-32.52336029696888,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 2 - KH18//Robyn//2.72 Ha</name>
+    <Point>
+      <coordinates>18.9732308655725,-32.52461330035352,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 2 - KH19//Xsit 11//Washington//0.75 Ha</name>
+    <Point>
+      <coordinates>18.97341659434502,-32.52521790277488,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 2 - KH20//Midknight//1.57 Ha</name>
+    <Point>
+      <coordinates>18.97438423836227,-32.52580323442479,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 2 - KH21//Xsit 9//Navelina//6.12 Ha</name>
+    <Point>
+      <coordinates>18.97377559539896,-32.52783392744613,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Korhaanshoogte 2 - KH22//Xsit 10//Nova//1.2 Ha</name>
+    <Point>
+      <coordinates>18.97431668760534,-32.53020660976556,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Koedoeskop - KK1//Kuno/Satsuma//0.55 Ha</name>
+    <Point>
+      <coordinates>18.96217645672927,-32.47635256910381,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Koedoeskop - KK2//Nules//0.86 Ha</name>
+    <Point>
+      <coordinates>18.96232015790285,-32.47691294217947,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Koedoeskop - KK3//Miho Wase//0.68 Ha</name>
+    <Point>
+      <coordinates>18.96246161052197,-32.47767073739369,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Koedoeskop - KK4//Nova//1 Ha</name>
+    <Point>
+      <coordinates>18.96262787219096,-32.47856353195965,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Koedoeskop - KK5//Miho Wase//0.34 Ha</name>
+    <Point>
+      <coordinates>18.96254500217817,-32.47903100767628,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Koedoeskop - KK6//Xsit 8//Novelty//0.74 Ha</name>
+    <Point>
+      <coordinates>18.96239097135294,-32.47956574550262,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Koedoeskop - KK7//Robyn//2.84 Ha</name>
+    <Point>
+      <coordinates>18.96139496367234,-32.478117196222,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Koedoeskop - KK7//Lina//0.36 Ha</name>
+    <Point>
+      <coordinates>18.96180172693522,-32.47738282441297,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Koedoeskop - KK8//Xsit 7//Midknight//2.3 Ha</name>
+    <Point>
+      <coordinates>18.96109188894915,-32.47917398474655,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Koedoeskop - KK9//Xsit 6//Washington//4 Ha</name>
+    <Point>
+      <coordinates>18.96090817547585,-32.47520617482511,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Koedoeskop - KK10//Xsit 5//Valencia//2.69 Ha</name>
+    <Point>
+      <coordinates>18.95956081038,-32.47335446324603,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Koedoeskop - KK12//Midknight//0.35 Ha</name>
+    <Point>
+      <coordinates>18.95975172172835,-32.47651974851936,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Koedoeskop - KK13//Nules//0.56 Ha</name>
+    <Point>
+      <coordinates>18.95966502024134,-32.47751458315205,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Koedoeskop - KK14//Midknight//0.83 Ha</name>
+    <Point>
+      <coordinates>18.95996773369892,-32.4785074744951,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Koedoeskop - KK15//Bahianinha//2.15 Ha</name>
+    <Point>
+      <coordinates>18.95855098270955,-32.47577919969616,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Koedoeskop - KK16//Xsit 1//Robyn//1.53 Ha</name>
+    <Point>
+      <coordinates>18.96168267336543,-32.47185381871262,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Koedoeskop - KK16//Bahianinha//0.33 Ha</name>
+    <Point>
+      <coordinates>18.95992012898945,-32.47110751999516,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Koedoeskop - KK17//Nules//0.68 Ha</name>
+    <Point>
+      <coordinates>18.96146198477027,-32.47127978118294,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Koedoeskop - KK18//Xsit 2//Robyn//0.38 Ha</name>
+    <Point>
+      <coordinates>18.96128732372859,-32.47036480480893,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Koedoeskop - KK19//Tambor//0.4 Ha</name>
+    <Point>
+      <coordinates>18.96092682496864,-32.47079496543645,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Koedoeskop - KK20//Xsit 3//Washington//0.49 Ha</name>
+    <Point>
+      <coordinates>18.95977419513574,-32.47068775716311,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Koedoeskop - KK22//Xsit 4//Washington//2.27 Ha</name>
+    <Point>
+      <coordinates>18.9581384370489,-32.47110606254238,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Koedoeskop - KK23//Tambor//1.47 Ha</name>
+    <Point>
+      <coordinates>18.95954154368574,-32.47218822176136,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Koedoeskop - KK24//Nova//0.23 Ha</name>
+    <Point>
+      <coordinates>18.95966003936952,-32.47592177226395,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Koedoeskop - KK25//Xsit 9//Bahianinha//2.72 Ha</name>
+    <Point>
+      <coordinates>18.96366939760268,-32.4749897168747,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Koedoeskop - KK26//Xsit 2//Lina//0.96 Ha</name>
+    <Point>
+      <coordinates>18.97271806860752,-32.47239912832393,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Koedoeskop - KK27//Xsit 3//Lina//1.96 Ha</name>
+    <Point>
+      <coordinates>18.97040189039412,-32.47517547486335,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Koedoeskop - KK28//Newhall//0.24 Ha</name>
+    <Point>
+      <coordinates>18.97002411210079,-32.4756397472547,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Koedoeskop - KK29//Xsit 1//Lina//1.27 Ha</name>
+    <Point>
+      <coordinates>18.97184896491743,-32.47204752465157,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Koedoeskop - KK30//Nova//4 Ha</name>
+    <Point>
+      <coordinates>18.97061398819788,-32.47357036808196,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Koedoeskop - KK31//Satsuma//0.85 Ha</name>
+    <Point>
+      <coordinates>18.96921935153544,-32.4759619136134,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Koedoeskop - KK32//Tambor//0.76 Ha</name>
+    <Point>
+      <coordinates>18.96195914270879,-32.47285890369798,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Koedoeskop - KK33//Tambor//2.22 Ha</name>
+    <Point>
+      <coordinates>18.96199708171595,-32.47500421468531,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SMG - Koedoeskop - KK34//Tambor//0.35 Ha</name>
+    <Point>
+      <coordinates>18.9608341410081,-32.47577773108501,0</coordinates>
+    </Point>
+  </Placemark>
+</Folder>

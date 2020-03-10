@@ -1,0 +1,14 @@
+<Folder xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+    <name>MC - Houtkaprug - Blok 230//Washington//1.1 Ha</name>
+    <Point>
+      <coordinates>19.0211362436658,-32.56195837171577,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MC - Houtkaprug - Blok 231//Xsit 1//Washington//8 Ha</name>
+    <Point>
+      <coordinates>19.02211966525093,-32.56342046741966,0</coordinates>
+    </Point>
+  </Placemark>
+</Folder>

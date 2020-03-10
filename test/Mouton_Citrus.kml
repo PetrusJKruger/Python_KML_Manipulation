@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Mouton Citrus2.kml</name>
+	<StyleMap id="msn_ylw-pushpin22500">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin81200</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_blue-pushpin811">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1960">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin189</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2006</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin2006">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_blue-pushpin1801">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2110">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin189">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_blue-pushpin8100">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_blue-pushpin180">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_blue-pushpin302">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_blue-pushpin180</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_blue-pushpin8100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_blue-pushpin320">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_blue-pushpin1801</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_blue-pushpin811</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin81200">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Mouton Citrus</name>
+		<visibility>0</visibility>
+		<open>1</open>
+		<Folder>
+			<name>Houtkaprug</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<Placemark>
+				<name>Blok 230//Washington//1.1 Ha</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>19.02224273060603</longitude>
+					<latitude>-32.56185377608161</latitude>
+					<altitude>0</altitude>
+					<heading>-3.442566406307712</heading>
+					<tilt>30.00213238858912</tilt>
+					<range>732.1388071553064</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin22500</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>19.0211362436658,-32.56195837171577,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>1.1 Ha</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_blue-pushpin320</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								19.02074137572691,-32.56080242987878,0 19.02084354149448,-32.56132709320813,0 19.02102621460472,-32.5613049805138,0 19.02102079908385,-32.56126709886793,0 19.02108678998021,-32.56124826419061,0 19.02111706795996,-32.56136494888073,0 19.02098321812788,-32.56137725916655,0 19.02099061662695,-32.5614265896159,0 19.02088334388334,-32.56145060026365,0 19.02131890080274,-32.56350627176558,0 19.02135524943638,-32.56370993791759,0 19.02154809311383,-32.56369941229974,0 19.02153764093136,-32.56365428839992,0 19.021716553735,-32.5636031117003,0 19.02150932295912,-32.56264199401601,0 19.02126705491821,-32.56155426622936,0 19.0209357410888,-32.56158925162175,0 19.02093300047484,-32.56148956099187,0 19.0212478963493,-32.56145495902524,0 19.02111177839187,-32.56076151895374,0 19.02074137572691,-32.56080242987878,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Blok 231//Xsit 1//Washington//8 Ha</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>19.02244404818526</longitude>
+					<latitude>-32.56331333552915</latitude>
+					<altitude>0</altitude>
+					<heading>-0.2509223968489085</heading>
+					<tilt>5.974360217906573</tilt>
+					<range>311.586750689127</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin1960</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>19.02211966525093,-32.56342046741966,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>8 Ha</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_blue-pushpin302</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								19.02091330614653,-32.55927587698446,0 19.02099493019765,-32.55985250576263,0 19.02109380189844,-32.56050507538664,0 19.02130156115412,-32.5614262401703,0 19.02134347922873,-32.56142571054362,0 19.02137767813114,-32.56153078868452,0 19.02131583769277,-32.56155602519776,0 19.02145088998384,-32.56217174667046,0 19.02167585859958,-32.56315598894486,0 19.02180351578016,-32.56369435799105,0 19.02217763597547,-32.56364351389411,0 19.02229158882898,-32.5636365269491,0 19.02293914162626,-32.5635497166957,0 19.02282726593096,-32.5630617493462,0 19.02246334536961,-32.56137571398972,0 19.02140227291917,-32.56152098239956,0 19.02137095764457,-32.56142126295783,0 19.02244805652116,-32.5612927787782,0 19.02239494323074,-32.56103848317235,0 19.02230623307374,-32.5606433990997,0 19.02223172379399,-32.56028707391261,0 19.02216387681857,-32.55983443087421,0 19.0220761839391,-32.55914553211563,0 19.02097509652988,-32.55925208918464,0 19.02094646125487,-32.55914268807398,0 19.02206301174206,-32.55904295209751,0 19.02175556841275,-32.55683922024203,0 19.0205955683303,-32.55694872756605,0 19.02091330614653,-32.55927587698446,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

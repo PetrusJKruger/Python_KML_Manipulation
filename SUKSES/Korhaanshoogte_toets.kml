@@ -1,0 +1,1135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Korhaanshoogte_toets.kml</name>
+	<StyleMap id="msn_ylw-pushpin11010">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin321</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin041</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin144">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin313">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2911</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin033</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin033">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin4102">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin16600">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin821">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin128">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2331">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin11130">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2911">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin7220">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1521">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin128</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin516</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin321">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin10701">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin4800">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1405">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin821</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4102</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1590">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin16600</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2331</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin041">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin113">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin9211">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin7220</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin10701</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin516">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin11220">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin113</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin11130</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin590">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin144</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4800</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Korhaanshoogte</name>
+		<visibility>0</visibility>
+		<open>1</open>
+		<Folder>
+			<name>Sitrus</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>KR1//Xsit 6//Navel//1.81 Ha</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>18.96449692277031</longitude>
+					<latitude>-32.49031526230042</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0002179542773260782</heading>
+					<tilt>12.46679954328271</tilt>
+					<range>496.4766256802657</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin11010</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>18.96416179221171,-32.49027640996589,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>1.81 Ha</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin590</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								18.96372568778811,-32.4895550943527,0 18.96396595410022,-32.49102849464781,0 18.96511030384418,-32.49092448464466,0 18.96510433562776,-32.4908795641762,0 18.96511902163525,-32.49086309729393,0 18.96511371803197,-32.4908286802475,0 18.9651019165488,-32.49074104020696,0 18.96507777411068,-32.49062313711421,0 18.96503777079408,-32.49062447175115,0 18.96502621318498,-32.49054269072342,0 18.96506281046929,-32.49053603834985,0 18.96488318334146,-32.48943678531771,0 18.96372568778811,-32.4895550943527,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>KR2//Navel//1.84 Ha</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>18.96467108525053</longitude>
+					<latitude>-32.48998672689685</latitude>
+					<altitude>0</altitude>
+					<heading>-2.681115159776137</heading>
+					<tilt>23.96062585481121</tilt>
+					<range>540.5879968053746</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin9211</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>18.96311868031571,-32.49012292920838,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>1.84 Ha</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin590</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								18.96250038429572,-32.48968103307234,0 18.96251209969913,-32.48972789091037,0 18.96249296421757,-32.4897412697403,0 18.96250496881437,-32.48977270332656,0 18.96273314064394,-32.49112936075647,0 18.9639220222034,-32.49102618410668,0 18.96369704482773,-32.48960756285979,0 18.96364233399788,-32.48960162205175,0 18.96364802739711,-32.4895606398603,0 18.96250038429572,-32.48968103307234,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>KR3//Xsit 5//Navel//1.28 Ha</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>18.9621771085888</longitude>
+					<latitude>-32.48954282363906</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0003714370049962228</heading>
+					<tilt>30.00175428312192</tilt>
+					<range>435.0956487438577</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin11010</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>18.96201681598227,-32.48995632456217,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>1.28 Ha</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin590</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								18.96164084781519,-32.48975360587586,0 18.96185969533042,-32.49122496446299,0 18.96260260428935,-32.49114937587881,0 18.96260208081677,-32.49110528176237,0 18.96267728277041,-32.49106787700853,0 18.96246372520688,-32.48966878646219,0 18.96164084781519,-32.48975360587586,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>KR5//Xsit 7//Robyn//2.9 Ha</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>18.96389133506876</longitude>
+					<latitude>-32.48763407244945</latitude>
+					<altitude>0</altitude>
+					<heading>-9.942932079695322e-005</heading>
+					<tilt>15.58548779794883</tilt>
+					<range>438.1990224620675</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin11010</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>18.96372876465717,-32.48723289857569,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>2.9 Ha</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin590</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								18.96338417726807,-32.48713603449144,0 18.96334730299134,-32.48717873463036,0 18.96373536856719,-32.48951596720487,0 18.96487841613741,-32.48941728507135,0 18.9646977404719,-32.48829303330319,0 18.96449782210943,-32.48708237272584,0 18.96446384575263,-32.4870603750396,0 18.96445810862259,-32.48702205464812,0 18.96338417726807,-32.48713603449144,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>KR6//Robyn//1.83 Ha</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>18.96381519396436</longitude>
+					<latitude>-32.48797945954486</latitude>
+					<altitude>0</altitude>
+					<heading>-6.108705474408703</heading>
+					<tilt>5.712748487957042</tilt>
+					<range>747.6292141441251</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin9211</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>18.96301983284675,-32.48774860348666,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>1.83 Ha</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin590</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								18.96258718132079,-32.48720272457572,0 18.96297000240788,-32.48959486834872,0 18.96369741129065,-32.48952252555955,0 18.96331790688926,-32.48719651411042,0 18.96327591640345,-32.48719130669739,0 18.96327765400468,-32.48714312682183,0 18.96258718132079,-32.48720272457572,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>KR7//Navel//1.62 Ha</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>18.96376467306178</longitude>
+					<latitude>-32.488874759446</latitude>
+					<altitude>0</altitude>
+					<heading>-6.108678327158295</heading>
+					<tilt>5.7121464978935</tilt>
+					<range>746.5100792067278</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin9211</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>18.96251571565608,-32.48926252919379,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>1.62 Ha</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin590</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								18.96193086118251,-32.48727472437758,0 18.9623110658993,-32.48964009692353,0 18.96295606556912,-32.48957888994259,0 18.96257578682378,-32.48720236658436,0 18.96193086118251,-32.48727472437758,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>KR8//Bahianinha//1.76 Ha</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>18.96376467306178</longitude>
+					<latitude>-32.488874759446</latitude>
+					<altitude>0</altitude>
+					<heading>-6.108678327158295</heading>
+					<tilt>5.7121464978935</tilt>
+					<range>746.5100792067278</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin9211</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>18.96173592979848,-32.48874853045384,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>1.76 Ha</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin590</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								18.96118369790978,-32.48736499565224,0 18.96156031719858,-32.48971122768444,0 18.96225807552687,-32.48964548469574,0 18.96224831564815,-32.48954498463496,0 18.96196633258117,-32.48779410476688,0 18.96187268993647,-32.48727573221134,0 18.96124262078028,-32.48734093036364,0 18.96118369790978,-32.48736499565224,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>KR9//Xsit 8//Midknight//2.19 Ha</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>18.96361000029461</longitude>
+					<latitude>-32.48474999982093</latitude>
+					<altitude>0</altitude>
+					<heading>-1.581960190239731e-010</heading>
+					<tilt>0</tilt>
+					<range>1000.004243063128</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin11220</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>18.96364420214706,-32.48473268946735,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>2.19 Ha</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin590</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								18.96364629235079,-32.48685825418405,0 18.96365776646335,-32.48699716852986,0 18.96368543890822,-32.48702979457823,0 18.96370318758002,-32.48705359580284,0 18.96381910070392,-32.48704060589186,0 18.96401491097094,-32.48702189755148,0 18.96428941748519,-32.48700009184469,0 18.96450000636657,-32.48697240296878,0 18.96410388355228,-32.48451313401552,0 18.96407653863381,-32.48446904139713,0 18.96326519951863,-32.4845578552525,0 18.96364629235079,-32.48685825418405,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>KR10//Washington//1.52 Ha</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>18.96351347306538</longitude>
+					<latitude>-32.48632644460179</latitude>
+					<altitude>0</altitude>
+					<heading>-2.433284635016123</heading>
+					<tilt>25.34351728173713</tilt>
+					<range>481.4267640646057</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin9211</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>18.96289185443833,-32.48650290042819,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>1.52 Ha</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin590</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								18.96219424595678,-32.48595498718407,0 18.96238403598709,-32.48715379900553,0 18.9630285205898,-32.48709527675865,0 18.96301899167808,-32.48702850356597,0 18.96314026269896,-32.4869860685374,0 18.96318317609399,-32.48707133956195,0 18.96327921447907,-32.48706001592486,0 18.96327497585266,-32.4869821592732,0 18.96332345631786,-32.48697298073782,0 18.96339042153621,-32.48704139250208,0 18.96357597730748,-32.48703509275255,0 18.9633900399665,-32.48580621821562,0 18.96219424595678,-32.48595498718407,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>KR11//Valencia//1 Ha</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>18.96369401299904</longitude>
+					<latitude>-32.48645730104183</latitude>
+					<altitude>0</altitude>
+					<heading>-2.190122505832679</heading>
+					<tilt>19.05532946334839</tilt>
+					<range>641.8997257486124</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin9211</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>18.96170942917343,-32.48655283661765,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>1 Ha</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin590</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								18.96129123801192,-32.48701553800045,0 18.96146809170146,-32.48700384568898,0 18.96149538215268,-32.48702064901951,0 18.96153246298254,-32.48702257558331,0 18.96154059815893,-32.48699690473942,0 18.96159356814317,-32.48699447498601,0 18.96158108929924,-32.48691469371592,0 18.96160421303412,-32.48687665956167,0 18.96165680812141,-32.48686666489454,0 18.96161908619976,-32.48669905029491,0 18.96167365755492,-32.48669613581371,0 18.96169011544563,-32.48672199635352,0 18.96174529020397,-32.48672290260827,0 18.9618677018671,-32.48671646073664,0 18.96196107704289,-32.48671154642462,0 18.96205620489716,-32.48720028262039,0 18.96237238804496,-32.48716125066236,0 18.96218114931095,-32.48596350726094,0 18.9611374135934,-32.48609822711718,0 18.96129123801192,-32.48701553800045,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>KR12//Xsit 4//Bahianinha//2.19 Ha</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>18.96137560251459</longitude>
+					<latitude>-32.48555129119188</latitude>
+					<altitude>0</altitude>
+					<heading>-7.214455848600705e-005</heading>
+					<tilt>30.00240463000962</tilt>
+					<range>535.5515986635938</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin11010</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>18.96086609726865,-32.48704492044663,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>2.19 Ha</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin1521</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								18.9601322539983,-32.48635875566081,0 18.96110070379538,-32.48627229199823,0 18.96110654148587,-32.48629316001121,0 18.96029478649181,-32.48637684790177,0 18.96046019183089,-32.48737504232648,0 18.96118022209974,-32.48730180401338,0 18.96117767610237,-32.48728014170499,0 18.9612207376137,-32.48727190808838,0 18.96123025187778,-32.4872437292355,0 18.96127315269368,-32.48722983592307,0 18.96106180700631,-32.48588460481086,0 18.96096755584887,-32.48533360332277,0 18.96076848371032,-32.48535506408317,0 18.96076487649147,-32.48537592743643,0 18.96071128681728,-32.48539027710766,0 18.96070163160702,-32.48536030594703,0 18.96045059152129,-32.48538198685316,0 18.9603182416086,-32.48464413228403,0 18.96027035571361,-32.4846528739827,0 18.960269688057,-32.48467951157094,0 18.96022632071328,-32.48469343483041,0 18.96020812435176,-32.4846603675297,0 18.96007543041027,-32.48467254735397,0 18.96006341990524,-32.48469452400128,0 18.95996892040267,-32.48471386791022,0 18.95998359027709,-32.48481499468316,0 18.95993334450716,-32.48482588989788,0 18.95994616516852,-32.48490413654165,0 18.9598963464841,-32.48491186043365,0 18.9601322539983,-32.48635875566081,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>KR13//Xsit 9//Washington//2.78 Ha</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>18.961875081827</longitude>
+					<latitude>-32.4853201124263</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0001414257172928832</heading>
+					<tilt>7.872419166170642</tilt>
+					<range>716.8567000857031</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin313</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>18.96162904480212,-32.48521292255847,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>2.78 Ha</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin590</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								18.96113365279649,-32.48608701074573,0 18.96217829840514,-32.48595148430486,0 18.9633932589476,-32.48579752457681,0 18.96321868437394,-32.48473310057214,0 18.96260185381953,-32.48479875096092,0 18.96261298970548,-32.48495355320784,0 18.96254674005559,-32.48495788063757,0 18.96253073332369,-32.48486253118816,0 18.96247106275833,-32.48485275106473,0 18.9623853793028,-32.48481366825198,0 18.9623307322623,-32.48481397803011,0 18.96233636890084,-32.48495795687283,0 18.96227764315059,-32.48495156694836,0 18.96226121487965,-32.48490132383086,0 18.96219166948982,-32.48490256437319,0 18.96216956394883,-32.48483542183702,0 18.96212863807366,-32.48458833935712,0 18.96182206294439,-32.48461120108829,0 18.9618264401685,-32.48465603434535,0 18.96176114192468,-32.48466083415573,0 18.96174199809604,-32.48462411555005,0 18.96170819067564,-32.48463356584675,0 18.96174909034413,-32.48488475157691,0 18.96144993293976,-32.48491530097731,0 18.96145223202385,-32.4849387465619,0 18.96140386754688,-32.48494873671099,0 18.96137414604674,-32.48491708664959,0 18.96132182958464,-32.48492401386666,0 18.96132457755975,-32.48495071554656,0 18.96127994063675,-32.48495707635676,0 18.96125327757185,-32.48487861584545,0 18.961276438735,-32.48484666064357,0 18.96131388981764,-32.48484388297416,0 18.96128445462409,-32.48477519775764,0 18.96120956850305,-32.48478090103363,0 18.96116065568691,-32.48474411242104,0 18.96105841726636,-32.48473514947284,0 18.96098831238682,-32.4847776076214,0 18.96091093804265,-32.48478354429798,0 18.96113365279649,-32.48608701074573,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>KR14//Xsit 3//Robyn//1.29 Ha</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>18.96312514724944</longitude>
+					<latitude>-32.48332081652505</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0005300077694009695</heading>
+					<tilt>13.47342946128174</tilt>
+					<range>421.6022364287229</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin11010</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>18.96372160637333,-32.48409382563062,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>1.29 Ha</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin590</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								18.96303643967771,-32.48274773256252,0 18.9630384486668,-32.48280515053964,0 18.96304793643543,-32.48285315327271,0 18.96305270445375,-32.48290905492818,0 18.96306419419797,-32.48303427146015,0 18.96308312112749,-32.48308951294699,0 18.96310744450133,-32.48312338356372,0 18.96308127840887,-32.48315823386101,0 18.96310031171371,-32.48319458778241,0 18.9631644012318,-32.48359472631604,0 18.96322175790947,-32.48390532243554,0 18.96323815154987,-32.48406745596603,0 18.96328225475566,-32.48434367309254,0 18.9640124831804,-32.48425075774215,0 18.96400853327878,-32.48421594253212,0 18.96404121637423,-32.48420116367228,0 18.96397239974655,-32.48380936002246,0 18.96396436878736,-32.48368889208173,0 18.96391271526813,-32.48346472121913,0 18.96389998497801,-32.48330147296996,0 18.9638577554198,-32.48303361397687,0 18.96384691749041,-32.48291802869145,0 18.96380510508631,-32.48291900424346,0 18.96379518726447,-32.48286336237356,0 18.96383093920247,-32.48286003280042,0 18.96378655153261,-32.48264530547085,0 18.96303643967771,-32.48274773256252,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>KR15//Robyn//1.21 Ha</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>18.96415384937208</longitude>
+					<latitude>-32.48367909642114</latitude>
+					<altitude>0</altitude>
+					<heading>-3.169551187113902</heading>
+					<tilt>16.00196087884516</tilt>
+					<range>543.3625450392775</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin9211</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>18.96260192917599,-32.48323475119315,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>1.21 Ha</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin590</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								18.96216298648941,-32.48311937741308,0 18.96220146580117,-32.48312745691131,0 18.96222916857462,-32.48317554679984,0 18.96223665133859,-32.48325988200662,0 18.96228078273651,-32.48338244212022,0 18.96233108437552,-32.48353891453876,0 18.96239728638014,-32.48365070381515,0 18.96241879791101,-32.48374726312141,0 18.96243730810869,-32.48380935435833,0 18.96246997732376,-32.48380817654864,0 18.96249157697347,-32.48389439202834,0 18.96250982090744,-32.48394570471927,0 18.96250580872921,-32.48397203853435,0 18.96253600167803,-32.48401098280221,0 18.96256219346491,-32.48411073150612,0 18.96260513251978,-32.48411147384391,0 18.96260793254659,-32.48420915921376,0 18.96262515988686,-32.48428569856829,0 18.96266497604705,-32.48428677601147,0 18.96268549384545,-32.48432586420513,0 18.96274466733552,-32.48432041961429,0 18.96275465733739,-32.48435425626433,0 18.96278913844451,-32.48436704753878,0 18.96279660730646,-32.48440946899781,0 18.96325187616398,-32.48434723004959,0 18.96316228364973,-32.48374456736912,0 18.96300247036027,-32.48278459501385,0 18.96212598410895,-32.48290450951411,0 18.96216298648941,-32.48311937741308,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>KR16//Midknight//1.1 Ha</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>18.96354936969562</longitude>
+					<latitude>-32.48367821448234</latitude>
+					<altitude>0</altitude>
+					<heading>-3.169226540111531</heading>
+					<tilt>16.00284496012055</tilt>
+					<range>538.5478297065444</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin9211</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>18.96193271860565,-32.48364368128837,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>1.1 Ha</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin590</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								18.96141534938166,-32.48321494440035,0 18.96171745621464,-32.48396112464981,0 18.96164715005472,-32.48399076620285,0 18.96182369206785,-32.48449131558881,0 18.96191319415299,-32.4844994741418,0 18.96263781903815,-32.48441367260817,0 18.96213573569365,-32.48312701201003,0 18.96141534938166,-32.48321494440035,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>KR17//Navel//1.1 Ha</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>18.96508267547837</longitude>
+					<latitude>-32.48170903121856</latitude>
+					<altitude>0</altitude>
+					<heading>-2.678225743943195</heading>
+					<tilt>17.60405752703387</tilt>
+					<range>621.7879426681634</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin9211</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>18.96336242854834,-32.48190321839771,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>1.1 Ha</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin590</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								18.9627557930804,-32.48085325220151,0 18.96273474594955,-32.48088138567095,0 18.96276089852555,-32.48090141580887,0 18.96277120430138,-32.48098355732696,0 18.96282975739494,-32.48118041215918,0 18.96291342775973,-32.48139083748764,0 18.96292508149163,-32.48142508478357,0 18.96298362221784,-32.48142198375104,0 18.96301716307803,-32.48151409612226,0 18.96307185014356,-32.48151133614699,0 18.96306035773278,-32.48158796417867,0 18.96310476211631,-32.48163744851215,0 18.96303766844971,-32.4816680048362,0 18.96311825793817,-32.48190494066695,0 18.96319390783504,-32.48209304882818,0 18.96322788895923,-32.48208473423027,0 18.96324246686236,-32.4821112912506,0 18.96320577135259,-32.48212985760724,0 18.96323523918342,-32.48218609258931,0 18.96327064271109,-32.48219136390835,0 18.96327358202279,-32.48221822256482,0 18.9632481266742,-32.48223272452114,0 18.96326999572541,-32.48229224566704,0 18.96334934761516,-32.48227908154789,0 18.96336038102013,-32.48231220377103,0 18.96328210251678,-32.48233524112639,0 18.96333695647533,-32.48250631886719,0 18.96337873171194,-32.48250461432442,0 18.96338470349445,-32.48252792905841,0 18.96335904706231,-32.48253903779648,0 18.96339489785586,-32.48263824280931,0 18.96370325373901,-32.4825964590691,0 18.96376722860924,-32.48252620306087,0 18.96367169019516,-32.4819441903566,0 18.96364064275485,-32.4817624793728,0 18.96359096271761,-32.48145144013121,0 18.9635351389015,-32.48116742667847,0 18.9634940968003,-32.48093388536717,0 18.96346887396017,-32.48075591743591,0 18.9627557930804,-32.48085325220151,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>KR18//Clemetine//2 Ha</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>18.96487633316547</longitude>
+					<latitude>-32.48147542005442</latitude>
+					<altitude>0</altitude>
+					<heading>0.9061304458486834</heading>
+					<tilt>17.04750328852517</tilt>
+					<range>447.1327627771032</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin1405</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>18.96309618923553,-32.48174388489923,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>2 Ha</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin1590</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								18.96233762646277,-32.48090449266704,0 18.96237501735427,-32.48100681965117,0 18.96241283735307,-32.48110954487722,0 18.96244459701067,-32.48116255925396,0 18.96242812001862,-32.48118541093215,0 18.96248533717355,-32.48132445601652,0 18.96253144102073,-32.48146084467988,0 18.96256397081093,-32.4814672388475,0 18.9625568342385,-32.48148936402662,0 18.96264532971569,-32.4817242477551,0 18.96273458047403,-32.48193470109059,0 18.96275862043653,-32.4820129133336,0 18.96280876649176,-32.48201833598415,0 18.96282648756463,-32.48207689899125,0 18.96279200947575,-32.48208635752702,0 18.96280103311224,-32.48211505419751,0 18.96281767546782,-32.48216467895917,0 18.96284623674738,-32.48221918541287,0 18.96286306907895,-32.48227169984122,0 18.96288313253518,-32.48234674105044,0 18.962891004737,-32.482383967644,0 18.96298958077283,-32.4826444825022,0 18.96303030740825,-32.48262886167591,0 18.96302482946182,-32.4826779160047,0 18.96305510214012,-32.48268820750819,0 18.96318582185437,-32.48267245929364,0 18.96338860140321,-32.48264521683647,0 18.96371728284421,-32.48258282645996,0 18.96377075241666,-32.48252788630015,0 18.96346127856779,-32.48073877536341,0 18.96343982492389,-32.48070725325866,0 18.96348509575638,-32.4806962792694,0 18.96346069705797,-32.48062467988827,0 18.96229060614617,-32.48078397136691,0 18.96233762646277,-32.48090449266704,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>KR18//Clementine//0.35 Ha</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>18.96404817783622</longitude>
+					<latitude>-32.47986191932315</latitude>
+					<altitude>0</altitude>
+					<heading>0.8764826253259672</heading>
+					<tilt>21.39024919746111</tilt>
+					<range>424.4071743651791</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin1405</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>18.96233933948356,-32.48013316707474,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>0.35 Ha</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin1590</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								18.96186985748934,-32.47975665177467,0 18.96209597327425,-32.48033185480638,0 18.96305311618188,-32.48019101436103,0 18.96316543024737,-32.48016553822497,0 18.96308094499925,-32.48013969663413,0 18.96305222916836,-32.48011528829289,0 18.96299802293204,-32.48010837352999,0 18.96297229158251,-32.48009121759066,0 18.9629147657889,-32.4800793240797,0 18.96286911824206,-32.48005470325523,0 18.96279834232012,-32.48002513048059,0 18.96271556644864,-32.48002867127313,0 18.96268941003584,-32.47999583485862,0 18.96263347788032,-32.47999912076224,0 18.96260598071961,-32.4799608488597,0 18.96242898337724,-32.47997671787015,0 18.9623981103125,-32.47993862905556,0 18.96234763773488,-32.47992967026936,0 18.96232090768441,-32.47990577606595,0 18.96226177742656,-32.47990909691212,0 18.96224871483179,-32.47987505492782,0 18.96217501029013,-32.47987313252832,0 18.96215541384476,-32.47983820115184,0 18.9621169982456,-32.47980293766232,0 18.96198446758963,-32.47976536775711,0 18.96186985748934,-32.47975665177467,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>KR18//Nova//0.57 Ha</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>18.96441589735833</longitude>
+					<latitude>-32.48002789029445</latitude>
+					<altitude>0</altitude>
+					<heading>0.6395499204374872</heading>
+					<tilt>19.55430005849671</tilt>
+					<range>608.6246778975223</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin1405</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>18.96275665587002,-32.48047058918395,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>0.57 Ha</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin1590</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								18.96214497602291,-32.48033066639904,0 18.96215297318526,-32.48035627921589,0 18.96211565554155,-32.48037693716896,0 18.96219510592928,-32.48057382550978,0 18.96221088334493,-32.48060258192086,0 18.96223640141299,-32.48063384123094,0 18.96223711205006,-32.48066499336425,0 18.96225185783805,-32.48069013230222,0 18.96227442834515,-32.48070947391629,0 18.9622893437313,-32.48076438020311,0 18.96345800642717,-32.48061092047422,0 18.96344041499323,-32.48055165966799,0 18.96343470597882,-32.48045595897615,0 18.96339261981529,-32.48037611811138,0 18.96342839820542,-32.48033094733604,0 18.96340144205631,-32.48032298714962,0 18.96333647788135,-32.48027383618588,0 18.96320658336085,-32.48020267778311,0 18.96315673322643,-32.48017913165379,0 18.96296816718914,-32.48021249238154,0 18.96254713985187,-32.48027472532374,0 18.96214497602291,-32.48033066639904,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>KR19//Xsit 1//Navel//2.28 Ha</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>18.96215756308122</longitude>
+					<latitude>-32.4811157551714</latitude>
+					<altitude>0</altitude>
+					<heading>-4.756808152083943e-005</heading>
+					<tilt>15.78849302283247</tilt>
+					<range>439.6328779433371</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin11010</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>18.96210572801732,-32.48092481389724,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>KR19//Xsit 2//Navel//2.28 Ha</name>
+				<visibility>0</visibility>
+				<open>1</open>
+				<LookAt>
+					<longitude>18.9620099998407</longitude>
+					<latitude>-32.48218000062978</latitude>
+					<altitude>0</altitude>
+					<heading>8.560940008361275e-011</heading>
+					<tilt>0</tilt>
+					<range>1000.001904402252</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin11010</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>18.96204420743142,-32.48215114475713,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>2.28 Ha</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin590</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								18.96136588384134,-32.48107134520627,0 18.96200375303877,-32.48273257045358,0 18.96203914099421,-32.48282471354045,0 18.96201049010311,-32.48285833553252,0 18.96202038860841,-32.48288630374327,0 18.96295870377675,-32.48276088952326,0 18.96294021872078,-32.48270837770559,0 18.96298201153949,-32.48268731803944,0 18.96234874243136,-32.48101261712777,0 18.96232309725765,-32.48096022273516,0 18.96231447738056,-32.48091646162298,0 18.96225322127407,-32.48078833056082,0 18.96220436588598,-32.48064848593891,0 18.96213416667993,-32.48048501527221,0 18.96139829052454,-32.48057578858043,0 18.96146076757725,-32.48074525426146,0 18.96150043361217,-32.48085225597638,0 18.96150766448581,-32.48091593506771,0 18.96149833362716,-32.48096758242434,0 18.96147199113611,-32.48100483329829,0 18.96140759649861,-32.4810237181897,0 18.96141685227286,-32.48105509680441,0 18.96136588384134,-32.48107134520627,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>KR20//Bahianinha//3.46 Ha</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>18.96231870392242</longitude>
+					<latitude>-32.48218498793025</latitude>
+					<altitude>0</altitude>
+					<heading>-2.431940131042272</heading>
+					<tilt>24.42610792509607</tilt>
+					<range>538.0462919482749</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin9211</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>18.96078797650716,-32.48211821087485,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>3.46 Ha</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin590</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								18.95960328920256,-32.48130336049157,0 18.95999099926519,-32.48229811275768,0 18.9603225192978,-32.48313128836906,0 18.96045807974247,-32.48309163466914,0 18.96049258188825,-32.48310831814442,0 18.96086749689863,-32.48305344226422,0 18.96093617622229,-32.48304594456318,0 18.961082015882,-32.48301395156275,0 18.96127664813392,-32.48298108879543,0 18.96145509549988,-32.4829622341403,0 18.96156241879919,-32.48294152315494,0 18.96166581422691,-32.48294439630218,0 18.96188436437119,-32.48290166871718,0 18.9619524420267,-32.48286228127967,0 18.96198300092631,-32.48274740085829,0 18.96128794623377,-32.48102967882437,0 18.96033516962051,-32.48117747721597,0 18.95960328920256,-32.48130336049157,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>KR21//Xsit 10//Robyn//2.26 Ha</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>18.96009990927219</longitude>
+					<latitude>-32.48136448045933</latitude>
+					<altitude>0</altitude>
+					<heading>0.0003286079574051894</heading>
+					<tilt>18.12686361757166</tilt>
+					<range>526.4014934727246</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin313</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>18.95910844656243,-32.48105814355539,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>2.26 Ha</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin590</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								18.9588470441219,-32.48127546351785,0 18.95886467537034,-32.48132760496464,0 18.95889169158675,-32.48136441333278,0 18.9589014593544,-32.48143857657271,0 18.95924686508882,-32.48233682118931,0 18.9593803215971,-32.48266370035305,0 18.95951220974224,-32.48297631295995,0 18.95964230593165,-32.4829690956143,0 18.95971483618931,-32.48296697825317,0 18.95980805054728,-32.48294258788233,0 18.95980491323837,-32.48290440398195,0 18.96001787683344,-32.48286671869543,0 18.95953176299166,-32.48163031884985,0 18.95954961850507,-32.48155780124272,0 18.95958963215944,-32.48149567906405,0 18.95961173240072,-32.48141535416949,0 18.95929250102117,-32.48065727791931,0 18.95932245482655,-32.48062947599473,0 18.95929832997307,-32.48055936662107,0 18.95947133619865,-32.48050772315791,0 18.95955018607938,-32.48039685691233,0 18.95960757817304,-32.4802642825588,0 18.9596323951328,-32.48012169802777,0 18.95960905203171,-32.48002875193871,0 18.95956123521261,-32.48001031900838,0 18.95955950472282,-32.47994693559338,0 18.95960739182648,-32.4798863742201,0 18.95968012129005,-32.47984241223805,0 18.9595102209448,-32.47942979847925,0 18.95885333714684,-32.47953042671479,0 18.95886390596338,-32.47958807564366,0 18.95887311042436,-32.47964038715264,0 18.95900491361236,-32.47994710719269,0 18.95905585415398,-32.48007822690691,0 18.95909100679334,-32.48010580052756,0 18.95912304463171,-32.48015556916425,0 18.95910834588361,-32.48024833059388,0 18.95910132743938,-32.48035867170224,0 18.95872052448521,-32.48042104337885,0 18.95872026700526,-32.48045334953126,0 18.9586473988589,-32.48049743664764,0 18.95865555358971,-32.48052817334652,0 18.9585698776635,-32.48056491726636,0 18.95855148352652,-32.4806171981135,0 18.95872819201447,-32.48102404293408,0 18.9588470441219,-32.48127546351785,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>KR22//Washington//2.56 Ha</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>18.96224229673983</longitude>
+					<latitude>-32.47996545228927</latitude>
+					<altitude>0</altitude>
+					<heading>-3.411602452305145</heading>
+					<tilt>10.13956444731066</tilt>
+					<range>670.8665164249685</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin9211</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>18.96031623560002,-32.48034264626433,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>2.56 Ha</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin590</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								18.95941314216095,-32.48067536069174,0 18.95960961223436,-32.48118348218699,0 18.96002105153079,-32.48113675861027,0 18.96070953194535,-32.48103793863808,0 18.96141047962075,-32.48093318965504,0 18.96114495341719,-32.48020083702701,0 18.96098854016515,-32.47977102996423,0 18.96080714131268,-32.47977909029471,0 18.96067954677222,-32.47979539671777,0 18.96061163271263,-32.47978797152508,0 18.96041449343543,-32.47925975586674,0 18.96033471631536,-32.47925102447073,0 18.96011406291564,-32.47930270543856,0 18.96008604602953,-32.47929047290814,0 18.95999778962293,-32.47930680147631,0 18.95979738721618,-32.47935511646071,0 18.95975350452012,-32.47935606377368,0 18.95966827903537,-32.47938811489729,0 18.95959805069931,-32.47940973827472,0 18.95979048625438,-32.47991089911997,0 18.95973138081781,-32.47993011164824,0 18.95973083275302,-32.4799564826495,0 18.95968590695384,-32.47996799475175,0 18.95975661942054,-32.48014060084779,0 18.95971962903111,-32.48015626364053,0 18.95976569396418,-32.48028373530239,0 18.95972353332638,-32.48030754015396,0 18.95971534727846,-32.48034398388943,0 18.95967816445302,-32.480364974031,0 18.95966032190909,-32.48041012733745,0 18.95965066776391,-32.48042606964479,0 18.95967353930783,-32.48047664591265,0 18.95962383508219,-32.48048409823434,0 18.95961177818516,-32.48051266877283,0 18.95951862216144,-32.48059200521954,0 18.95941314216095,-32.48067536069174,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>KR23//Robyn//0.85 Ha</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>18.96293345965885</longitude>
+					<latitude>-32.48010799489197</latitude>
+					<altitude>0</altitude>
+					<heading>-3.178060204453065</heading>
+					<tilt>1.467057573428206</tilt>
+					<range>576.430061867288</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin9211</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>18.96146061119051,-32.47992851161308,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>0.85 Ha</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin590</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								18.9605920196918,-32.47938834814013,0 18.9606989307112,-32.4796840342751,0 18.96102364771299,-32.47964791022455,0 18.96102655516221,-32.47968324240978,0 18.96104746532699,-32.47970672386953,0 18.96117074053073,-32.48002641474447,0 18.96120435456922,-32.48011702323834,0 18.96124508285457,-32.48021777315791,0 18.96127957793242,-32.48028619875147,0 18.96131146047503,-32.48029286650198,0 18.96132668948996,-32.48035661551958,0 18.96131644846333,-32.48038113937672,0 18.96133735476104,-32.48043632119408,0 18.96139522022634,-32.48056676811909,0 18.96213267899703,-32.48047553920974,0 18.96190296046606,-32.47992372146428,0 18.96186394512857,-32.4799201393826,0 18.96185666410237,-32.47987336717746,0 18.96185474473868,-32.47985124249616,0 18.9618733225404,-32.47984194460982,0 18.96184068504607,-32.47972650521447,0 18.96178498693453,-32.47970059139583,0 18.96173679488124,-32.479705572565,0 18.96169845106926,-32.47966884393926,0 18.96163621427272,-32.47965527053118,0 18.96156966157897,-32.47966665827968,0 18.96155064469973,-32.47962910336428,0 18.96143457732744,-32.47961821762809,0 18.96140828261122,-32.47957007954143,0 18.96132328814767,-32.47958250857659,0 18.96130331703323,-32.4795341106113,0 18.96113920461221,-32.47954237402502,0 18.96112232721566,-32.47949393592592,0 18.96107487375329,-32.4794896062461,0 18.96105192868617,-32.47944172562935,0 18.96098238157886,-32.479439576256,0 18.96096088961335,-32.47940798369367,0 18.96082972268577,-32.47941161169239,0 18.96081690523165,-32.47937156107043,0 18.9605920196918,-32.47938834814013,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>KR24//Tambor//1.42 Ha</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>18.96325515215307</longitude>
+					<latitude>-32.48834926759052</latitude>
+					<altitude>0</altitude>
+					<heading>-2.922588499078707</heading>
+					<tilt>2.610911648595922</tilt>
+					<range>774.2057949935604</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin9211</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>18.9608136969124,-32.48836877436978,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>1.42 Ha</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin590</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								18.96036271521092,-32.48748547539837,0 18.96065878198386,-32.48939691188443,0 18.96137421826123,-32.48933874459803,0 18.9610450611804,-32.48740595966444,0 18.96036271521092,-32.48748547539837,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
